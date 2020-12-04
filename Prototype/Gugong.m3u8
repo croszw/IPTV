@@ -822,27 +822,27 @@ https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="东南亚精选",SCTV
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Asia Tenggara",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="东南亚精选",TVRI
+#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia Tenggara",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="东南亚精选",RCTI
+#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia Tenggara",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="东南亚精选",ดูทีวีสีช่อง 3
+#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Asia Tenggara",ดูทีวีสีช่อง 3
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="东南亚精选",ช่อง 7
+#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Asia Tenggara",ช่อง 7
 https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="东南亚精选",Workpoint
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Asia Tenggara",Workpoint
 https://exodiver.github.io/IPTV/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="东南亚精选",Kapamilya Channel
+#EXTINF:-1 tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="Asia Tenggara",Kapamilya Channel
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="东南亚精选",ANC
+#EXTINF:-1 tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="Asia Tenggara",ANC
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="VT1.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="东南亚精选",VTV 1
+#EXTINF:-1 tvg-id="VT1.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Asia Tenggara",VTV 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚精选",MRTV-4
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="Asia Tenggara选",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="印度精选",Colors
