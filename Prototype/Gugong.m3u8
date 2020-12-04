@@ -589,6 +589,10 @@ http://211.245.55.198:1024/m2u/239.192.53.7:49220
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="Korea",tvN 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-ID="MNE.KR" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="Korea",M-NET
 http://211.245.55.198:1024/m2u/239.192.48.5:49220
