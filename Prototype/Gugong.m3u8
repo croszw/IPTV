@@ -940,25 +940,25 @@ http://85.25.103.21:8081/live/TVI/playlist.m3u8
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Latin",Globo
 http://digitalxpress.gcdn.co/live1/globo/index.m3u8
 
-#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="苏联精选",Первый
+#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Rusia",Первый
 https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="苏联精选",Russia 1
+#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Rusia",Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="苏联精选",Russia 24
+#EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Rusia",Russia 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="苏联精选",СТС
+#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="Rusia",СТС
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_STS/variant.m3u8
-#EXTINF:-1 tvg-id="THT.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="苏联精选",ТНТ
+#EXTINF:-1 tvg-id="THT.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="Rusia",ТНТ
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="KAR.RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" group-title="苏联精选",Карусель
+#EXTINF:-1 tvg-id="KAR.RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" group-title="Rusia",Карусель
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="苏联精选",UA:Перший
+#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Rusia",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
-#EXTINF:-1 tvg-id="B24.BY" tvg-logo="https://static.epg.best/by/Belarus24.by.png" group-title="苏联精选",Беларусь 24
+#EXTINF:-1 tvg-id="B24.BY" tvg-logo="https://static.epg.best/by/Belarus24.by.png" group-title="Rusia",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="苏联精选",LRT Lituanica
+#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="Rusia",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1 tvg-id="QAZ.KZ" tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="苏联精选",Qazaqstan
+#EXTINF:-1 tvg-id="QAZ.KZ" tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="Rusia",Qazaqstan
 https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
 
 
