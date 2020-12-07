@@ -358,7 +358,27 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="Terrestrial",Al Jazeera English
-https://liveanevia.mncnow.id/live/eds/AlJazeera/sa_dash_vmx/AlJazeera.mpd
+https://liveanevia.mncnow.id/live/eds/AlJazeeraEnglish/sa_dash_vmx/AlJazeeraEnglish.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png" group-title="Terrestrial",Bloomberg
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="Terrestrial",France 24 English
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="Terrestrial",NHK World
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_357.png" group-title="Terrestrial",DW English
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Terrestrial",Global TV HD
+https://liveanevia.mncnow.id/live/eds/GlobalTVHD/sa_dash_vmx/GlobalTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
