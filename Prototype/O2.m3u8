@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://play-lh.googleusercontent.com/VKV4_AN01fT0H918bICKd-5pR4WFbPmbkhGg-weBx242LeqG4j7hZwQLduTsyn5Q5bQ=s180-rw" group-title="O2Play",Oxygen TV
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/oxygen.png" group-title="O2Play",Oxygen TV
 http://103.130.186.138:8800/getstream.m3u8.php?channel=oxygentv
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fdfca68f92aa49bfc7b.png" group-title="O2Play",Persija TV
