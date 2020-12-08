@@ -34,7 +34,7 @@ https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPrem
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="Movies",FOX Acion Movies
+#EXTINF:-1 group-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="Movies",FOX Action Movies
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -55,7 +55,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="ZZC.IN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies",Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="WXK.TW" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_24.png" group-title="Movies",SCM Legend
@@ -119,7 +119,10 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="General Entertainment",tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_86.png" group-title="General Entertainment",Entertainment
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_94.png" group-title="General Entertainment",Vision Prime
@@ -337,6 +340,14 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Terrestrial",Metro TV
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Terrestrial",Trans 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Terrestrial",Jak TV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -375,42 +386,28 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_357.png" group-title="Terrestrial",DW English
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Terrestrial",Global TV HD
-https://liveanevia.mncnow.id/live/eds/GlobalTVHD/sa_dash_vmx/GlobalTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Terrestrial",Lifestyle & Fashion
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Lifestyle",Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" group-title="Terrestrial",Infotainment
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" group-title="Lifestyle",Infotainment
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Terrestrial",Asian Food Network
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Terrestrial",HGTV
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Lifestyle",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="Terrestrial",National Geographic People
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="Lifestyle",National Geographic People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.jpg" group-title="Terrestrial",TLC
+#EXTINF:-1 tvg-id="MUS.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.jpg" group-title="Lifestyle",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#EXTINF:-1 tvg-id="VP.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png" group-title="emensi",Vision Prime
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#EXTINF:-1 tvg-id="VP.ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png" group-title="emensi",Vision Prime
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
