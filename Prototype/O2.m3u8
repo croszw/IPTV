@@ -1,0 +1,267 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://play-lh.googleusercontent.com/VKV4_AN01fT0H918bICKd-5pR4WFbPmbkhGg-weBx242LeqG4j7hZwQLduTsyn5Q5bQ=s180-rw" group-title="O2Play",Oxygen TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=oxygentv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fdfca68f92aa49bfc7b.png" group-title="O2Play",Persija TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/0eb528acf376b17cc57f.png" group-title="O2Play",TV Edukasi
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvedukasi
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/09217b9c634c4af04cf8.png" group-title="O2Play",Elshinta TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=elshinta
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e4afd29602b1de683cf.png" group-title="O2Play",Euronews
+http://103.130.186.138:8800/getstream.m3u8.php?channel=euronewsasia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/826d510ed54931975581.jpg" group-title="O2Play",Al Jazeera
+http://103.130.186.138:8800/getstream.m3u8.php?channel=aljazeera
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png" group-title="O2Play",SCTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2c6b74b452fa9cf7da7f.png" group-title="O2Play",O Channel
+http://103.130.186.138:8800/getstream.m3u8.php?channel=ochannel
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2d979d476997759e33cb.jpg" group-title="O2Play",DW
+http://103.130.186.138:8800/getstream.m3u8.php?channel=dwenglish
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2f3a0f63e5de56240bfd.png" group-title="O2Play",Arirang
+http://103.130.186.138:8800/getstream.m3u8.php?channel=arirangworld
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3fed7136510418dda0ff.jpg" group-title="O2Play",Fox Movies
+http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4f0c9fb3f9d85e8bb546.png" group-title="O2Play",Bloomberg
+http://103.130.186.138:8800/getstream.m3u8.php?channel=bloomberg
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5e09e6da956848188d3c.png" group-title="O2Play",Phoenix HK
+http://103.130.186.138:8800/getstream.m3u8.php?channel=phoenixhongkong
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5edd2dc397034ff6f7c7.jpg" group-title="O2Play",Jak TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=jaktv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6a2818cb3b25880863df.png" group-title="O2Play",Xing Kong
+http://103.130.186.138:8800/getstream.m3u8.php?channel=xingkong
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e1a7e570bc390f9ef9b.jpg" group-title="O2Play",Berita Satu
+http://103.130.186.138:8800/getstream.m3u8.php?channel=beritasatu
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e958c74a40131ba7121.jpg" group-title="O2Play",Tawaf TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tawaftv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e958c74a40131ba7121.jpg" group-title="O2Play",Tawaf TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tawaftv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fec4c98cea3945097dd.jpg" group-title="O2Play",Lejel Home Shoping
+http://103.130.186.138:8800/getstream.m3u8.php?channel=lejelhs
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7d45502e4051634b98be.png" group-title="O2Play",CNN Indonesia
+http://103.130.186.138:8800/getstream.m3u8.php?channel=cnnindonesia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e4dfde2c20583ebd204.png" group-title="O2Play",DAAI TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=daaitv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e23b41820e0eff52868.png" group-title="O2Play",Channel News Asia
+http://103.130.186.138:8800/getstream.m3u8.php?channel=channelnewsasia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/68d7199b8ef4eef12e9f.png" group-title="O2Play",TVB News
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvbnews
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/9fbec8d89033a1fbaeb4.jpg" group-title="O2Play",Sinema Indonesia X
+http://103.130.186.138:8800/getstream.m3u8.php?channel=sinemaindonesia-x
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/16f01924b3993c0a6d70.jpg" group-title="O2Play",TVRI
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20f4250451a65d27750e.jpg" group-title="O2Play",CNBC
+http://103.130.186.138:8800/getstream.m3u8.php?channel=cnbc
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/38b921488d46eff4c6d6.png" group-title="O2Play",Indosiar
+http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png" group-title="O2Play",ANTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/52bec920962e5b131d18.png" group-title="O2Play",Nusantara TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=nusantaratv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/63bd577ca43fdd74052b.png" group-title="O2Play",B4u Music
+http://103.130.186.138:8800/getstream.m3u8.php?channel=b4umusicindia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/71b6548371859e81ff04.png" group-title="O2Play",Salam TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=salamtv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/87e30aa5de2af8c31382.jpg" group-title="O2Play",CGTN
+http://103.130.186.138:8800/getstream.m3u8.php?channel=cgtn
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/98c35787154a1f8fc6b8.jpg" group-title="O2Play",Metro TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=metrotv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png" group-title="O2Play",Trans TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/690bf312c6d80d78616a.png" group-title="O2Play",Drakor Plus
+http://103.130.186.138:8800/getstream.m3u8.php?channel=drakorplus
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/801ce5b3d197a0392f7d.png" group-title="O2Play",VOA
+http://103.130.186.138:8800/getstream.m3u8.php?channel=voa
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/997f8f4276359bbba313.jpg" group-title="O2Play",K-Drama
+http://103.130.186.138:8800/getstream.m3u8.php?channel=k-drama
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1516cfff880cf8f05772.jpg" group-title="O2Play",B4u Movie
+http://103.130.186.138:8800/getstream.m3u8.php?channel=b4umovieindia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3262a3392d5e1d28185d.jpg" group-title="O2Play",CCTV4 Asia
+http://103.130.186.138:8800/getstream.m3u8.php?channel=cctv4asia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3795b204fc8397d37b67.jpg" group-title="O2Play",France 24
+http://103.130.186.138:8800/getstream.m3u8.php?channel=france24
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4361f515f6f4713d61e8.png" group-title="O2Play",V CHina
+http://103.130.186.138:8800/getstream.m3u8.php?channel=vchina
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png" group-title="O2Play",TVRI Sport
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvrisport
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7828d7728db98a50b2e9.png" group-title="O2Play",Rodja TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=rodjatv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/12889b4baa56159ed877.png" group-title="O2Play",Toonmax
+http://103.130.186.138:8800/getstream.m3u8.php?channel=toonmax
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20974d1ab7de157e95d3.png" group-title="O2Play",Russia Today
+http://103.130.186.138:8800/getstream.m3u8.php?channel=russiatoday
+
+
+
+
+
+
+
+
+#EXTINF:-1 FOX MOVIES
+http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+
+#EXTINF:-1,NET TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=nettv
+
+#EXTINF:-1,METRO TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=metrotv
+
+#EXTINF:-1,TVRI NASIONAL
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
+
+#EXTINF:-1,SCTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
+
+#EXTINF:-1,TRANS 7
+http://103.130.186.138:8800/getstream.m3u8.php?channel=trans7
+
+#EXTINF:-1,TRANS TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
+
+#EXTINF:-1,INDOSIAR
+http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
+
+#EXTINF:-1,ANTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
+
+#EXTINF:-1,TV ONE
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvone
+
+#EXTINF:-1,JAK TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=jaktv
+
+#EXTINF:-1,MATRIX TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=matrixtv
+
+#EXTINF:-1,LEJEL HS
+http://103.130.186.138:8800/getstream.m3u8.php?channel=lejelhs
+
+#EXTINF:-1,NUSANTARA TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=nusantaratv
+
+#EXTINF:-1,PERSIJA TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
+
+#EXTINF:-1,RTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=rtv
+
+#EXTINF:-1,O CHANNEL
+http://103.130.186.138:8800/getstream.m3u8.php?channel=ochannel
+
+#EXTINF:-1,Ruang Terampil
+http://185.238.0.145:1313/c/max/ruangtrampil-hd.m3u8
+
+#EXTINF:-1,Mt@TV
+http://185.238.0.145:1313/c/max/mtatv-hd.m3u8
+
+#EXTINF:-1,RodjaTV
+http://185.238.0.145:1313/c/max/rodjatv-hd.m3u8
+
+#EXTINF:-1,Mytv
+http://185.238.0.145:1313/c/max/mytv-hd.m3u8
+
+#EXTINF:-1,Max2U
+http://185.238.0.145:1313/c/max/max2u-hd.m3u8
+
+#EXTINF:-1,JTV
+http://185.238.0.145:1313/c/max/jtv-hd.m3u8
+
+#EXTINF:-1,Maxstream-Music
+http://185.238.0.145:1313/c/max/maxstreammusic-hd.m3u8
+
+#EXTINF:-1,MCC
+http://185.238.0.145:1313/c/max/mcc-hd.m3u8
+
+#EXTINF:-1,JakTV
+http://185.238.0.145:1313/c/max/jaktv-hd.m3u8
+
+#EXTINF:-1,UseePrime
+http://185.238.0.145:1313/c/max/useeprime-hd.m3u8
+
+#EXTINF:-1,DigiOne
+http://185.238.0.145:1313/c/max/digione-hd.m3u8
+
+#EXTINF:-1,Magna
+http://185.238.0.145:1313/c/max/magna-hd.m3u8
+
+#EXTINF:-1,LombokTV
+http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
+
+#EXTINF:-1,Hi Indo
+http://185.238.0.145:1313/c/max/hi-hd.m3u8
+
+#EXTINF:-1,Nettv
+http://185.238.0.145:1313/c/max/nettv-hd.m3u8
+
+#EXTINF:-1,Channel4U
+http://185.238.0.145:1313/c/max/channel4u-hd.m3u8
+
+#EXTINF:-1,TIC
+http://185.238.0.145:1313/c/max/tic-hd.m3u8
+
+#EXTINF:-1,UseePhoto
+http://185.238.0.145:1313/c/max/useephoto-hd.m3u8
+
+#EXTINF:-1,BaliTV
+http://185.238.0.145:1313/c/max/balitv-hd.m3u8
+
+#EXTINF:-1,TVEdukasi
+http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
+
+#EXTINF:-1,DGTV
+http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
+
+#EXTINF:-1,MetroTV
+http://185.238.0.145:1313/c/max/metrotv-hd.m3u8
+
+#EXTINF:-1,KompasTV
+http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
+
+#EXTINF:-1,SeaToday
+http://185.238.0.145:1313/c/max/idku-hd.m3u8
