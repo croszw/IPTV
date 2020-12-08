@@ -191,178 +191,44 @@ http://103.130.186.138:8800/getstream.m3u8.php?channel=tvedukasi
 http://103.130.186.138:8800/getstream.m3u8.php?channel=toonmax
 
 
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fdfca68f92aa49bfc7b.png" group-title="Etc",Persija TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/09217b9c634c4af04cf8.png" group-title="Etc",Elshinta TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=elshinta
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/826d510ed54931975581.jpg" group-title="Etc",Al Jazeera
-http://103.130.186.138:8800/getstream.m3u8.php?channel=aljazeera
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3fed7136510418dda0ff.jpg" group-title="Etc",Fox Movies
-http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/851925161f1a12e9705f.png" group-title="Etc",ATV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=atv
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4f0c9fb3f9d85e8bb546.png" group-title="Etc",Bloomberg
 http://103.130.186.138:8800/getstream.m3u8.php?channel=bloomberg
 
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7d45502e4051634b98be.png" group-title="Etc",CNN Indonesia
-http://103.130.186.138:8800/getstream.m3u8.php?channel=cnnindonesia
-
 #EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20f4250451a65d27750e.jpg" group-title="Etc",CNBC
 http://103.130.186.138:8800/getstream.m3u8.php?channel=cnbc
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png" group-title="Etc",ANTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/851925161f1a12e9705f.png" group-title="Etc",ATV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=atv
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a9c7298a39454d3ca7a3.png" group-title="Etc",M CIne
-http://103.130.186.138:8800/getstream.m3u8.php?channel=mcine
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/db91bd387ce830441a98.png" group-title="Etc",Space Toon
-http://103.130.186.138:8800/getstream.m3u8.php?channel=spacetoon
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cc206a4b878ea6199f19.jpg" group-title="Etc",Fashion TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=fashiontv
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cfc5d67a54f4e9d00f13.png" group-title="Etc",TV5 Monde
-http://103.130.186.138:8800/getstream.m3u8.php?channel=tv5monde
-
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8ca8c5558d3e68eea81.png" group-title="Etc",My TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=mytv
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8543486df8c9d785112.png" group-title="Etc",CNBC Indonesia
 http://103.130.186.138:8800/getstream.m3u8.php?channel=cnbcindonesia
 
-#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/f3cb80ed481c8de3b5f2.png" group-title="Etc",U Channel
-http://103.130.186.138:8800/getstream.m3u8.php?channel=uchannel
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7d45502e4051634b98be.png" group-title="Etc",CNN Indonesia
+http://103.130.186.138:8800/getstream.m3u8.php?channel=cnnindonesia
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/09217b9c634c4af04cf8.png" group-title="Etc",Elshinta TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=elshinta
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cc206a4b878ea6199f19.jpg" group-title="Etc",Fashion TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=fashiontv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3fed7136510418dda0ff.jpg" group-title="Etc",Fox Movies
+http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/fbd60061e32ee1d47ef7.png" group-title="Etc",Lotus Macau
 http://103.130.186.138:8800/getstream.m3u8.php?channel=lotusmacau
 
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a9c7298a39454d3ca7a3.png" group-title="Etc",M CIne
+http://103.130.186.138:8800/getstream.m3u8.php?channel=mcine
 
-#EXTINF:-1 FOX MOVIES
-http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8ca8c5558d3e68eea81.png" group-title="Etc",My TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=mytv
 
-#EXTINF:-1,NET TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=nettv
-
-#EXTINF:-1,METRO TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=metrotv
-
-#EXTINF:-1,TVRI NASIONAL
-http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
-
-#EXTINF:-1,SCTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
-
-#EXTINF:-1,TRANS 7
-http://103.130.186.138:8800/getstream.m3u8.php?channel=trans7
-
-#EXTINF:-1,TRANS TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
-
-#EXTINF:-1,INDOSIAR
-http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
-
-#EXTINF:-1,ANTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
-
-#EXTINF:-1,TV ONE
-http://103.130.186.138:8800/getstream.m3u8.php?channel=tvone
-
-#EXTINF:-1,JAK TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=jaktv
-
-#EXTINF:-1,MATRIX TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=matrixtv
-
-#EXTINF:-1,LEJEL HS
-http://103.130.186.138:8800/getstream.m3u8.php?channel=lejelhs
-
-#EXTINF:-1,NUSANTARA TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=nusantaratv
-
-#EXTINF:-1,PERSIJA TV
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fdfca68f92aa49bfc7b.png" group-title="Etc",Persija TV
 http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
 
-#EXTINF:-1,RTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=rtv
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/db91bd387ce830441a98.png" group-title="Etc",Space Toon
+http://103.130.186.138:8800/getstream.m3u8.php?channel=spacetoon
 
-#EXTINF:-1,O CHANNEL
-http://103.130.186.138:8800/getstream.m3u8.php?channel=ochannel
-
-#EXTINF:-1,Ruang Terampil
-http://185.238.0.145:1313/c/max/ruangtrampil-hd.m3u8
-
-#EXTINF:-1,Mt@TV
-http://185.238.0.145:1313/c/max/mtatv-hd.m3u8
-
-#EXTINF:-1,RodjaTV
-http://185.238.0.145:1313/c/max/rodjatv-hd.m3u8
-
-#EXTINF:-1,Mytv
-http://185.238.0.145:1313/c/max/mytv-hd.m3u8
-
-#EXTINF:-1,Max2U
-http://185.238.0.145:1313/c/max/max2u-hd.m3u8
-
-#EXTINF:-1,JTV
-http://185.238.0.145:1313/c/max/jtv-hd.m3u8
-
-#EXTINF:-1,Maxstream-Music
-http://185.238.0.145:1313/c/max/maxstreammusic-hd.m3u8
-
-#EXTINF:-1,MCC
-http://185.238.0.145:1313/c/max/mcc-hd.m3u8
-
-#EXTINF:-1,JakTV
-http://185.238.0.145:1313/c/max/jaktv-hd.m3u8
-
-#EXTINF:-1,UseePrime
-http://185.238.0.145:1313/c/max/useeprime-hd.m3u8
-
-#EXTINF:-1,DigiOne
-http://185.238.0.145:1313/c/max/digione-hd.m3u8
-
-#EXTINF:-1,Magna
-http://185.238.0.145:1313/c/max/magna-hd.m3u8
-
-#EXTINF:-1,LombokTV
-http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
-
-#EXTINF:-1,Hi Indo
-http://185.238.0.145:1313/c/max/hi-hd.m3u8
-
-#EXTINF:-1,Nettv
-http://185.238.0.145:1313/c/max/nettv-hd.m3u8
-
-#EXTINF:-1,Channel4U
-http://185.238.0.145:1313/c/max/channel4u-hd.m3u8
-
-#EXTINF:-1,TIC
-http://185.238.0.145:1313/c/max/tic-hd.m3u8
-
-#EXTINF:-1,UseePhoto
-http://185.238.0.145:1313/c/max/useephoto-hd.m3u8
-
-#EXTINF:-1,BaliTV
-http://185.238.0.145:1313/c/max/balitv-hd.m3u8
-
-#EXTINF:-1,TVEdukasi
-http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
-
-#EXTINF:-1,DGTV
-http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
-
-#EXTINF:-1,MetroTV
-http://185.238.0.145:1313/c/max/metrotv-hd.m3u8
-
-#EXTINF:-1,KompasTV
-http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
-
-#EXTINF:-1,SeaToday
-http://185.238.0.145:1313/c/max/idku-hd.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cfc5d67a54f4e9d00f13.png" group-title="Etc",TV5 Monde
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tv5monde
