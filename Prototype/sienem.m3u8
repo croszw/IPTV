@@ -393,6 +393,9 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_357.png" group-title="Terrestrial",DW English
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_88.png" group-title="Lifestyle",MNC Shop
+https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Lifestyle",Lifestyle & Fashion
