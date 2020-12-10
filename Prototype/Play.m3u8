@@ -96,11 +96,11 @@ http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="O2",inews
 http://103.130.186.138:8800/getstream.m3u8.php?channel=inews
 
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="O2",k-drama
-http://103.130.186.138:8800/getstream.m3u8.php?channel=k-drama
-
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="O2",jaktv
 http://103.130.186.138:8800/getstream.m3u8.php?channel=jaktv
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="O2",k-drama
+http://103.130.186.138:8800/getstream.m3u8.php?channel=k-drama
 
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="O2",kompastv
 http://103.130.186.138:8800/getstream.m3u8.php?channel=kompastv
