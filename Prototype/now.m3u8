@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?logRequestId=ec828931bffe1ee68f7cccf47ed036bf&assetId=DASHANIPLUSDRM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus
 https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
 
