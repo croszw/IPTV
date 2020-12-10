@@ -1,0 +1,37 @@
+#EXTM3U
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/assetId=DASHANIPLUSDRM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="+",gtv
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="+",inews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="+",mnctv
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="+",rcti
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",MAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",SIG
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
