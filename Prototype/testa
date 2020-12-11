@@ -30,5 +30,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-4
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/
+#KODIPROP:inputstream.adaptive.license_flags='persistent_storage'
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
