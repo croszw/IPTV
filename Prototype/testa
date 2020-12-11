@@ -33,3 +33,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-4
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/
 #KODIPROP:inputstream.adaptive.license_flags='persistent_storage'
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/index.m3u8
