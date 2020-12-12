@@ -46,3 +46,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-4
 #KODIPROP:inputstream.adaptive.license_key=https://bam.nr-data.net/resources/1/1974645ce9?a=312408887&sa=1&v=1169.7b094c0&t=Unnamed%20Transaction&rst=5995&ck=1&ref=https://maxstream.tv/tv-channels/71052&st=1607753989730
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus10
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bam.nr-data.net/resources/1/1974645ce9?a=312408887&sa=1&v=1169.7b094c0&t=Unnamed%20Transaction&rst=5995&ck=1&ref=https://maxstream.tv/tv-channels/71052&st=1607753989730
+#KODIPROP:inputstream.adaptive.license_flags='persistent_storage'
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus11
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
