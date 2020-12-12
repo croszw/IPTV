@@ -36,3 +36,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-4
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bam.nr-data.net/events/1/1974645ce9?a=312408887&sa=1&v=1169.7b094c0&t=Unnamed%20Transaction&rst=95909&ck=1&ref=https://maxstream.tv/tv-channels/71052
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="maxstream",aniplus9
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
