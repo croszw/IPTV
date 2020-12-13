@@ -66,10 +66,5 @@ https://etslive-2-vidio-com.akamaized.net/exp=1607914247~acl=/vp9/204_stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="vidio",indosiar2
-https://etslive-2-vidio-com.akamaized.net/exp=1607914247~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=b3ece97771662cdc9580036b001e5fa3d4e499684d3ea5ff6773a5a2c5861339/vp9/205_stream.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="vidio",indosiar2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="vidio",indosiar
 https://etslive-2-vidio-com.akamaized.net/exp=1607916345~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=dba419dd156ef08c6557cccf4bee4dfa2d3173fc3aaed2d896bb8c4a4a487f8f/vp9/205_stream.mpd
