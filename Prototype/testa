@@ -63,3 +63,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="vidio",sctv
 https://etslive-2-vidio-com.akamaized.net/exp=1607914247~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=b3ece97771662cdc9580036b001e5fa3d4e499684d3ea5ff6773a5a2c5861339/vp9/204_stream.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="vidio",sctv
+https://etslive-2-vidio-com.akamaized.net/exp=1607914247~acl=/vp9/205_stream.mpd!/vp9/204/*~hmac=b3ece97771662cdc9580036b001e5fa3d4e499684d3ea5ff6773a5a2c5861339/vp9/205_stream.mpd
