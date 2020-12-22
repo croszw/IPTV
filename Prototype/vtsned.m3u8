@@ -80,7 +80,7 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="Premium", eGG
-http://210.210.155.35/uq2663/h/h22/01.m3u
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="Premium", FIGHT_SPORTS_HD
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="Premium", Animax_HD
@@ -96,7 +96,7 @@ http://210.210.155.35/uq2663/h/h07/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="Premium", HITS_HD
 http://210.210.155.35/uq2663/h/h37/index1.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="Premium", Blue_Ant_Entertainment_HD
-http://210.210.155.357/dr9445/h/h16/index10.m3u8
+http://45.126.83.51/dr9445/h/h16/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="Premium", Blue_Ant_Extreme_HD
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="Premium", K-PLUS
