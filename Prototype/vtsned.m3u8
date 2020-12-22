@@ -81,6 +81,8 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="Premium", eGG
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="Premium", eGG
+http://210.210.155.35/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="Premium", FIGHT_SPORTS_HD
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="Premium", Animax_HD
@@ -108,7 +110,7 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="Premium", CinemaWorld_HD
 http://210.210.155.35/uq2663/h/h04/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="Premium", Celestial_Movies
-http://210.210.155.35/qwr9ew/s33/01.m3u8
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="Premium", Zee_Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="Premium", Thrill
