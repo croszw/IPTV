@@ -4,118 +4,118 @@
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="Local", Live_Streaming_1
 http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg" group-title="Local", Live_Streaming_2
-http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
+http://210.210.155.35/uq2663/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="Local", Metro_TV
-http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+http://210.210.155.35/uq2663/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="Local", tvOne
-http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="Local", SCTV
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="Local", Indosiar
-http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="Local", Trans_TV
-http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="Local", Trans7
-http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="Local", antv
-http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="Local", DENS_Life_n_Style
-http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+http://210.210.155.35/uq2663/h/h28/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="Local", Dens_Learning_n_Knowledge_Trial-
-http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="Local", Dens_ShowBiz_Trial-
-http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="Local", NET.
-http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="Local", Kompas_TV
-http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Local", Elshinta_TV
-http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="Local", TVRI
-http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s11/01.m3u8
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="Local", RTV
-http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Local", RodjaTV
-http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
+http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="Local", BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Local", DAAI_TV
-http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg" group-title="Local", U-Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/105.jpg" group-title="Local", MYTV
 http://210.210.155.35/qwr9ew/s/s46/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg" group-title="Local", TVRI_Sport_HD
-http://210.210.155.35:80/session/8161a31e-2edb-11eb-901e-b82a72d63267/qwr9ew/s/s107/01.m3u8
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="Local", DensPlay
-http://210.210.155.35:80/session/10f5c51e-2edc-11eb-aa6b-b82a72d63267/x6bnqe/s/s101/live.m3u8
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="International", CNA
-http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
+http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="International", NHK_WORLD-JAPAN
-http://210.210.155.35:80/session/1010caf2-2ede-11eb-9da2-b82a72d63267/uq2663/h/h23/01.m3u8
+http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="International", Al_Jazeera_English
-http://210.210.155.35:80/session/c461c448-2ede-11eb-9da2-b82a72d63267/qwr9ew/s/s17/01.m3u8
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="International", TRT_World
-http://210.210.155.35:80/session/db3a3876-2ede-11eb-a8d2-c81f66f89318/uq2663/h/h156/S4/mnf.m3u8
+http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="International", UA%7CTV
-http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8
+http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg" group-title="International", Al_Jazeera_Arabic
-http://210.210.155.35:80/session/15ebf4f0-2edf-11eb-9063-b82a72d63267/qwr9ew/s/s16/01.m3u8
+http://210.210.155.35/qwr9ew/s/s16/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="International", CCTV-4
-http://210.210.155.35:80/session/2f9c2f96-2edf-11eb-9071-b82a72d63267/qwr9ew/s/s19/01.m3u8
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="International", France_24
-http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
+http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" group-title="International", TV5MONDE_ASIE
-http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s24/01.m3u8
+http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg" group-title="International", DW-TV
-http://210.210.155.35:80/session/eb5612b6-2ef2-11eb-9468-c81f66f89318/qwr9ew/s/s26/01.m3u8
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg" group-title="International", TBN
-http://210.210.155.35:80/session/fed35ccc-2ef2-11eb-a7a0-c81f66f89318/qwr9ew/s/s39/01.m3u8
+http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg" group-title="International", CGTN_Documentary
-http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg" group-title="International", Quran_TV
-http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg" group-title="International", Sunna_TV
-http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="Premium", eGG
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u
+http://210.210.155.35/uq2663/h/h22/01.m3u
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="Premium", FIGHT_SPORTS_HD
-http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
+http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="Premium", Animax_HD
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="Premium", My_Kidz_HD
-http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="Premium", ANIPLUS
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="Premium", AXN_HD
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="Premium", KIX_HD
-http://210.210.155.35/session/7d46d780-4417-11eb-9529-b82a72d63267/uq2663/h/h07/index10.m3u8
+http://210.210.155.35/uq2663/h/h07/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="Premium", HITS_HD
-http://210.210.155.35/session/8c0dca30-4417-11eb-9063-b82a72d63267/uq2663/h/h37/index1.m3u8
+http://210.210.155.35/uq2663/h/h37/index1.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="Premium", Blue_Ant_Entertainment_HD
-http://210.210.155.35/session/9e7028b2-4417-11eb-81ff-b82a72d63267/dr9445/h/h16/index10.m3u8
+http://210.210.155.357/dr9445/h/h16/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="Premium", Blue_Ant_Extreme_HD
-http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="Premium", K-PLUS
-http://210.210.155.35/session/daa1a8ba-4417-11eb-a328-c81f66f89318/uq2663/h/h08/index.m3u8
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="Premium", ONE
-http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="Premium", GEM
-http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="Premium", CinemaWorld_HD
 http://210.210.155.35/uq2663/h/h04/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="Premium", Celestial_Movies
 http://210.210.155.35/qwr9ew/s33/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="Premium", Zee_Bioskop
-http://210.210.155.35/session/84cace66-4418-11eb-babd-c81f66f89318/qwr9ew/s/s32/index10.m3u8
+http://210.210.155.35/qwr9ew/s/s32/index10.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="Premium", Thrill
-http://210.210.155.35/session/a408ba90-4418-11eb-9219-c81f66f89318/qwr9ew/s/s34/index.m3u8
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium", My_Cinema_HD
 http://210.210.155.35/uq2663//h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="Premium", TV5MONDE_Style
-http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8
+http://210.210.155.35/uq2663/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="Premium", Bloomberg_Television_HD
-http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
+http://210.210.155.35/uq2663/h/h03/01.m3u8
