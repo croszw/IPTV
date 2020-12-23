@@ -48,3 +48,18 @@ https://liveorigin02.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",SIG
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",FAMILY FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",HITS FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",HBO FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",MAX FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",MSIA FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",RED FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Go",SIG FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
