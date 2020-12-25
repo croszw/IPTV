@@ -169,7 +169,6 @@ http://185.238.0.145:1313/c/tvri/papua-hd.m3u8
 http://185.238.0.145:1313/c/tvri/papua-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-papua.png" group-title="TVRI",TVRI PAPUA
 http://185.238.0.145:1313/c/tvri/papua-lq.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-nusa-tenggara-timur.png" group-title="TVRI",TVRI NUSA TENGGARA TIMUR
 http://185.238.0.145:1313/c/tvri/nusatenggaratimur-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-nusa-tenggara-timur.png" group-title="TVRI",TVRI NUSA TENGGARA TIMUR
@@ -218,7 +217,6 @@ http://185.238.0.145:1313/c/tvri/kalimantanbarat-hd.m3u8
 http://185.238.0.145:1313/c/tvri/kalimantanbarat-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-kalimantan-barat.png" group-title="TVRI",TVRI KALIMANTAN BARAT
 http://185.238.0.145:1313/c/tvri/kalimantanbarat-lq.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jawa-timur.png" group-title="TVRI",TVRI JAWA TIMUR
 http://185.238.0.145:1313/c/tvri/jawatimur-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jawa-timur.png" group-title="TVRI",TVRI JAWA TIMUR
@@ -237,3 +235,45 @@ http://185.238.0.145:1313/c/tvri/jawabarat-hd.m3u8
 http://185.238.0.145:1313/c/tvri/jawabarat-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jawa-barat.png" group-title="TVRI",TVRI JAWA BARAT
 http://185.238.0.145:1313/c/tvri/jawabarat-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jambi.png" group-title="TVRI",TVRI JAMBI
+http://185.238.0.145:1313/c/tvri/jambi-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jambi.png" group-title="TVRI",TVRI JAMBI
+http://185.238.0.145:1313/c/tvri/jambi-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jambi.png" group-title="TVRI",TVRI JAMBI
+http://185.238.0.145:1313/c/tvri/jambi-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jakarta.png" group-title="TVRI",TVRI JAKARTA
+http://185.238.0.145:1313/c/tvri/jakarta-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jakarta.png" group-title="TVRI",TVRI JAKARTA
+http://185.238.0.145:1313/c/tvri/jakarta-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-jakarta.png" group-title="TVRI",TVRI JAKARTA
+http://185.238.0.145:1313/c/tvri/jakarta-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-gorontalo.png" group-title="TVRI",TVRI GORONTALO
+http://185.238.0.145:1313/c/tvri/gorontalo-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-gorontalo.png" group-title="TVRI",TVRI GORONTALO
+http://185.238.0.145:1313/c/tvri/gorontalo-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-gorontalo.png" group-title="TVRI",TVRI GORONTALO
+http://185.238.0.145:1313/c/tvri/gorontalo-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bengkulu.png" group-title="TVRI",TVRI BENGKULU
+http://185.238.0.145:1313/c/tvri/bengkulu-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bengkulu.png" group-title="TVRI",TVRI BENGKULU
+http://185.238.0.145:1313/c/tvri/bengkulu-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bengkulu.png" group-title="TVRI",TVRI BENGKULU
+http://185.238.0.145:1313/c/tvri/bengkulu-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bangka-belitung.png" group-title="TVRI",TVRI BANGKA BELITUNG
+http://185.238.0.145:1313/c/tvri/bangkabelitung-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bangka-belitung.png" group-title="TVRI",TVRI BANGKA BELITUNG
+http://185.238.0.145:1313/c/tvri/bangkabelitung-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bangka-belitung.png" group-title="TVRI",TVRI BANGKA BELITUNG
+http://185.238.0.145:1313/c/tvri/bangkabelitung-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bali.png" group-title="TVRI",TVRI BALI
+http://185.238.0.145:1313/c/tvri/bali-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bali.png" group-title="TVRI",TVRI BALI
+http://185.238.0.145:1313/c/tvri/bali-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-bali.png" group-title="TVRI",TVRI BALI
+http://185.238.0.145:1313/c/tvri/bali-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-aceh.png" group-title="TVRI",TVRI ACEH
+http://185.238.0.145:1313/c/tvri/aceh-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-aceh.png" group-title="TVRI",TVRI ACEH
+http://185.238.0.145:1313/c/tvri/aceh-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-aceh.png" group-title="TVRI",TVRI ACEH
+http://185.238.0.145:1313/c/tvri/aceh-lq.m3u8
