@@ -15,7 +15,6 @@ https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/1080Red.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="1080",HBO
 https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/1080Msia.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="540",HBO HD
 https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/540Hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="540",HBO Signature
@@ -30,3 +29,18 @@ https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/540Max.m3u8
 https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/540Red.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="540",HBO
 https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/540Msia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="540",HBO HD
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="540",HBO Signature
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Sig.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="540",HBO Hits
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="540",HBO Family
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Family.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="540",Cinemax
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Max.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="540",RED by HBO
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Red.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="540",HBO
+https://raw.githubusercontent.com/croszw/IPTV/master/Prototype/OBH/360Msia.m3u8
