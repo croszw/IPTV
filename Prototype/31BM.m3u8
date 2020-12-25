@@ -103,5 +103,51 @@ http://185.238.0.145:1313/c/radio/iradio-jakarta.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-jakarta.png" group-title="Radio",Prambors Jakarta
 http://185.238.0.145:1313/c/radio/prambors-jakarta.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-jakarta.png" group-title="Radio",Prambors Jakarta
-http://185.238.0.145:1313/c/radio/prambors-jakarta.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-utara.png" group-title="TVRI",TVRI SUMATERA UTARA
+http://185.238.0.145:1313/c/tvri/sumaterautara-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-utara.png" group-title="TVRI",TVRI SUMATERA UTARA
+http://185.238.0.145:1313/c/tvri/sumaterautara-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-utara.png" group-title="TVRI",TVRI SUMATERA UTARA
+http://185.238.0.145:1313/c/tvri/sumaterautara-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-selatan.png" group-title="TVRI",TVRI SUMATERA SELATAN
+http://185.238.0.145:1313/c/tvri/sumateraselatan-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-selatan.png" group-title="TVRI",TVRI SUMATERA SELATAN
+http://185.238.0.145:1313/c/tvri/sumateraselatan-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-selatan.png" group-title="TVRI",TVRI SUMATERA SELATAN
+http://185.238.0.145:1313/c/tvri/sumateraselatan-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-barat.png" group-title="TVRI",TVRI SUMATERA BARAT
+http://185.238.0.145:1313/c/tvri/sumaterabarat-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-barat.png" group-title="TVRI",TVRI SUMATERA BARAT
+http://185.238.0.145:1313/c/tvri/sumaterabarat-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sumatera-barat.png" group-title="TVRI",TVRI SUMATERA BARAT
+http://185.238.0.145:1313/c/tvri/sumaterabarat-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-utara.png" group-title="TVRI",TVRI SULAWESI UTARA
+http://185.238.0.145:1313/c/tvri/sulawesiutara-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-utara.png" group-title="TVRI",TVRI SULAWESI UTARA
+http://185.238.0.145:1313/c/tvri/sulawesiutara-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-utara.png" group-title="TVRI",TVRI SULAWESI UTARA
+http://185.238.0.145:1313/c/tvri/sulawesiutara-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-tenggara.png" group-title="TVRI",TVRI SULAWESI TENGGARA
+http://185.238.0.145:1313/c/tvri/sulawesitenggara-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-tenggara.png" group-title="TVRI",TVRI SULAWESI TENGGARA
+http://185.238.0.145:1313/c/tvri/sulawesitenggara-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-tenggara.png" group-title="TVRI",TVRI SULAWESI TENGGARA
+http://185.238.0.145:1313/c/tvri/sulawesitenggara-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-tengah.png" group-title="TVRI",TVRI SULAWESI TENGAH
+http://185.238.0.145:1313/c/tvri/sulawesitengah-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-tengah.png" group-title="TVRI",TVRI SULAWESI TENGAH
+http://185.238.0.145:1313/c/tvri/sulawesitengah-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-tengah.png" group-title="TVRI",TVRI SULAWESI TENGAH
+http://185.238.0.145:1313/c/tvri/sulawesitengah-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-selatan.png" group-title="TVRI",TVRI SULAWESI SELATAN
+http://185.238.0.145:1313/c/tvri/sulawesiselatan-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-selatan.png" group-title="TVRI",TVRI SULAWESI SELATAN
+http://185.238.0.145:1313/c/tvri/sulawesiselatan-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-selatan.png" group-title="TVRI",TVRI SULAWESI SELATAN
+http://185.238.0.145:1313/c/tvri/sulawesiselatan-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-barat.png" group-title="TVRI",TVRI SULAWESI BARAT
+http://185.238.0.145:1313/c/tvri/sulawesibarat-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-barat.png" group-title="TVRI",TVRI SULAWESI BARAT
+http://185.238.0.145:1313/c/tvri/sulawesibarat-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sulawesi-barat.png" group-title="TVRI",TVRI SULAWESI BARAT
+http://185.238.0.145:1313/c/tvri/sulawesibarat-lq.m3u8
