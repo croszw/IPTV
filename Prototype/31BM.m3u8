@@ -290,3 +290,23 @@ http://185.238.0.145:1313/c/my/tvikim-lq.m3u8
 http://185.238.0.145:1313/c/my/astroaec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/pertiwi.png" group-title="Malaysia",PERTIWI
 http://185.238.0.145:1313/c/my/pertiwi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtm-sports.png" group-title="Malaysia",RTM Sports
+http://185.238.0.145:1313/c/my/rtmsports-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtm-sports.png" group-title="Malaysia",RTM Sports
+http://185.238.0.145:1313/c/my/rtmsports-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtm-sports.png" group-title="Malaysia",RTM Sports
+http://185.238.0.145:1313/c/my/rtmsports-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtb-sukmaindera.png" group-title="Malaysia",RTB Sukmaindera
+http://185.238.0.145:1313/c/my/rtbsukmaindera-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtb-sukmaindera.png" group-title="Malaysia",RTB Sukmaindera
+http://185.238.0.145:1313/c/my/rtbsukmaindera-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtb-sukmaindera.png" group-title="Malaysia",RTB Sukmaindera
+http://185.238.0.145:1313/c/my/rtbsukmaindera-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ntv7.png" group-title="Malaysia",NTV7
+http://185.238.0.145:1313/c/my/rtbsukmaindera-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="Malaysia",Naura
+http://185.238.0.145:1313/c/my/naura-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="Malaysia",Naura
+http://185.238.0.145:1313/c/my/naura-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="Malaysia",Naura
+http://185.238.0.145:1313/c/my/naura-lq.m3u8
