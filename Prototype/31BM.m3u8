@@ -289,7 +289,7 @@ http://185.238.0.145:1313/c/my/tvikim-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-aec.png" group-title="Malaysia",Astro AEC
 http://185.238.0.145:1313/c/my/astroaec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/pertiwi.png" group-title="Malaysia",PERTIWI
-http://185.238.0.145:1313/c/my/pertiwi.m3u8
+http://185.238.0.145:1313/c/my/pertiwitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtm-sports.png" group-title="Malaysia",RTM Sports
 http://185.238.0.145:1313/c/my/rtmsports-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtm-sports.png" group-title="Malaysia",RTM Sports
@@ -302,7 +302,7 @@ http://185.238.0.145:1313/c/my/rtbsukmaindera-hd.m3u8
 http://185.238.0.145:1313/c/my/rtbsukmaindera-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtb-sukmaindera.png" group-title="Malaysia",RTB Sukmaindera
 http://185.238.0.145:1313/c/my/rtbsukmaindera-lq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ntv7.png" group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ntv7.png" group-title="Malaysia",NTV7***
 http://185.238.0.145:1313/c/my/rtbsukmaindera-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="Malaysia",Naura
 http://185.238.0.145:1313/c/my/naura-hd.m3u8
@@ -310,3 +310,59 @@ http://185.238.0.145:1313/c/my/naura-hd.m3u8
 http://185.238.0.145:1313/c/my/naura-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="Malaysia",Naura
 http://185.238.0.145:1313/c/my/naura-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hello.png" group-title="Malaysia",Hello
+http://185.238.0.145:1313/c/my/hello-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hello.png" group-title="Malaysia",Hello
+http://185.238.0.145:1313/c/my/hello-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hello.png" group-title="Malaysia",Hello
+http://185.238.0.145:1313/c/my/hello-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bernama-tv.png" group-title="Malaysia",Bernama TV
+http://185.238.0.145:1313/c/g/bnama.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-rtm.png" group-title="Malaysia",Berita RTM
+http://185.238.0.145:1313/c/my/beritartm-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-rtm.png" group-title="Malaysia",Berita RTM
+http://185.238.0.145:1313/c/my/beritartm-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-rtm.png" group-title="Malaysia",Berita RTM
+http://185.238.0.145:1313/c/my/beritartm-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-go-shop.png" group-title="Malaysia",Astro Go Shop
+http://185.238.0.145:1313/c/my/astrogoshop-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-go-shop.png" group-title="Malaysia",Astro Go Shop
+http://185.238.0.145:1313/c/my/astrogoshop-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-go-shop.png" group-title="Malaysia",Astro Go Shop
+http://185.238.0.145:1313/c/my/astrogoshop-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="Malaysia",Astro Awani
+http://185.238.0.145:1313/c/my/astroawani-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="Malaysia",Astro Awani
+http://185.238.0.145:1313/c/my/astroawani-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="Malaysia",Astro Awani
+http://185.238.0.145:1313/c/my/astroawani-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/8tv.png" group-title="Malaysia",8TV***
+http://185.238.0.145:1313/c/my/astroawani-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-okey.png" group-title="Malaysia",TV Okey
+http://185.238.0.145:1313/c/my/tvokey-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-okey.png" group-title="Malaysia",TV Okey
+http://185.238.0.145:1313/c/my/tvokey-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-okey.png" group-title="Malaysia",TV Okey
+http://185.238.0.145:1313/c/my/tvokey-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv9-enulifqrjagi.png" group-title="Malaysia",TV9
+http://185.238.0.145:1313/c/g/TV9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv3.png" group-title="Malaysia",TV3
+http://185.238.0.145:1313/c/g/dramasangatz.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv2.png" group-title="Malaysia",TV2
+http://185.238.0.145:1313/c/my/tv2-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv2.png" group-title="Malaysia",TV2
+http://185.238.0.145:1313/c/my/tv2-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv2.png" group-title="Malaysia",TV2
+http://185.238.0.145:1313/c/my/tv2-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-1.png" group-title="Malaysia",TV1
+http://185.238.0.145:1313/c/my/tv1-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-1.png" group-title="Malaysia",TV1
+http://185.238.0.145:1313/c/my/tv1-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-1.png" group-title="Malaysia",TV1
+http://185.238.0.145:1313/c/my/tv1-lq.m3u8
+
+http://185.238.0.145:1313/c/ku/foxcrime.m3u8
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
+http://185.238.0.145:1313/c/ku/foxmovies.m3u8
+http://185.238.0.145:1313/c/ku/foxactionmovies.m3u8
+
