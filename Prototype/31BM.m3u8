@@ -66,6 +66,28 @@ http://185.238.0.145:1313/c/radio/nagaswara.m3u8
 http://185.238.0.145:1313/c/radio/indika.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/suara-muslim.png" group-title="Radio",Suara Muslim
 http://185.238.0.145:1313/c/radio/suaramuslim.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/v-jakarta.png" group-title="Radio",V Jakarta
+http://185.238.0.145:1313/c/radio/v-jakarta.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rdi.png" group-title="Radio",RDI
+http://185.238.0.145:1313/c/radio/rdi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rodja.png" group-title="Radio",Rodja
+http://185.238.0.145:1313/c/radio/rodja.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/suara-giri.png" group-title="Radio",Suara Giri
+http://185.238.0.145:1313/c/radio/suaragiri.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sonora-jakarta.png" group-title="Radio",Sonora Jakarta
+http://185.238.0.145:1313/c/radio/sonora-jakarta.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/oz-bandung.png" group-title="Radio",Oz Bandung
+http://185.238.0.145:1313/c/radio/oz-bandung.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cosmopolitan.png" group-title="Radio",Cosmopolitan
+http://185.238.0.145:1313/c/radio/cosmopolitan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gen-surabaya.png" group-title="Radio",Gen Surabaya
+http://185.238.0.145:1313/c/radio/gen-surabaya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-bandung.png" group-title="Radio",Prambors Bandung
+http://185.238.0.145:1313/c/radio/prambors-bandung.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/suara-surabaya.png" group-title="Radio",Suara Surabaya
+http://185.238.0.145:1313/c/radio/suara-surabaya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trax-jakarta.png" group-title="Radio",Trax Jakarta
+http://185.238.0.145:1313/c/radio/trax-jakarta.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mendhut.png" group-title="Radio",Mendhut
 http://185.238.0.145:1313/c/radio/mendhut.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mendhut.png" group-title="Radio",Mendhut
@@ -73,8 +95,4 @@ http://185.238.0.145:1313/c/radio/mendhut.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mendhut.png" group-title="Radio",Mendhut
 http://185.238.0.145:1313/c/radio/mendhut.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mendhut.png" group-title="Radio",Mendhut
-http://185.238.0.145:1313/c/radio/mendhut.m3u8#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mendhut.png" group-title="Radio",Mendhut
 http://185.238.0.145:1313/c/radio/mendhut.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mendhut.png" group-title="Radio",Mendhut
-http://185.238.0.145:1313/c/radio/mendhut.m3u8
-
