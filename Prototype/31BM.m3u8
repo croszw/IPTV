@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/klcbs.png" group-title="Radio",KLCBS
+http://185.238.0.145:1313/c/radio/klcbs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/brava.png" group-title="Radio",Brava
+http://185.238.0.145:1313/c/radio/brava.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/swaragama.png" group-title="Radio",Swaragama
+http://185.238.0.145:1313/c/radio/swaragama.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bahana.png" group-title="Radio",Bahana
+http://185.238.0.145:1313/c/radio/bahana.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/geronimo.png" group-title="Radio",Geronimo
+http://185.238.0.145:1313/c/radio/geronimo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/imelda.png" group-title="Radio",Imelda
+http://185.238.0.145:1313/c/radio/imelda.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/elgangga.png" group-title="Radio",Elgangga
+http://185.238.0.145:1313/c/radio/elgangga.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mqfm.png" group-title="Radio",MQFM
+http://185.238.0.145:1313/c/radio/mqfm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/i-radio-bandung.png" group-title="Radio",I-Radio Bandung
+http://185.238.0.145:1313/c/radio/iradio-bandung.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nagaswara-dancedhut.png" group-title="Radio",Nagaswara DanceDhut
+http://185.238.0.145:1313/c/radio/nagaswara-dancedhut.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sindo.png" group-title="Radio",Sindo
+http://185.238.0.145:1313/c/radio/sindo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nagaswara-pop.png" group-title="Radio",Nagaswara Pop
+http://185.238.0.145:1313/c/radio/nagaswara-pop.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rama-bandung.png" group-title="Radio",Rama Bandung
+http://185.238.0.145:1313/c/radio/rama-bandung.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/urban-bali.png" group-title="Radio",Urban Bali
+http://185.238.0.145:1313/c/radio/urban-bali.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/urban-bandung.png" group-title="Radio",Urban Bandung
+http://185.238.0.145:1313/c/radio/urban-bandung.m3u8
