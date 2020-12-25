@@ -30,3 +30,15 @@ http://185.238.0.145:1313/c/radio/rama-bandung.m3u8
 http://185.238.0.145:1313/c/radio/urban-bali.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/urban-bandung.png" group-title="Radio",Urban Bandung
 http://185.238.0.145:1313/c/radio/urban-bandung.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/radio-pelita-kasih.png" group-title="Radio",Radio Pelita Kasih
+http://185.238.0.145:1313/c/radio/rpk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dakwah-sunnah.png" group-title="Radio",Dakwah Sunnah
+http://185.238.0.145:1313/c/radio/dakwahsunnah.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cakra-bandung.png" group-title="Radio",CAKRA Bandung
+http://185.238.0.145:1313/c/radio/cakra-bandung.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/kajian-islam-kediri.png" group-title="Radio",Kajian Islam Kediri
+http://185.238.0.145:1313/c/radio/kajianislam-kediri.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/wijaya-surabaya.png" group-title="Radio",Wijaya Surabaya
+http://185.238.0.145:1313/c/radio/wijaya-surabaya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ebs.png" group-title="Radio",EBS
+http://185.238.0.145:1313/c/radio/ebs.m3u8
