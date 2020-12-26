@@ -858,11 +858,99 @@ http://185.238.0.145:1313/c/max/mytv-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mytv.png" group-title="National",mytv
 http://185.238.0.145:1313/c/a/mytv-hd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-satu.png" group-title="News",Berita Satu
+http://185.238.0.145:1313/c/a/beritasatu-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-satu.png" group-title="News",Berita Satu
+http://185.238.0.145:1313/c/a/beritasatu-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-satu.png" group-title="News",Berita Satu
+http://185.238.0.145:1313/c/a/beritasatu-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-satu-world.png" group-title="News",Berita Satu World
+http://185.238.0.145:1313/c/alt/beritasatuworld-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-satu-world.png" group-title="News",Berita Satu World
+http://185.238.0.145:1313/c/alt/beritasatuworld-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/berita-satu-world.png" group-title="News",Berita Satu World
+http://185.238.0.145:1313/c/alt/beritasatuworld-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jakarta-globe.png" group-title="News",Jakarta Globe
+http://185.238.0.145:1313/c/a/jakartaglobe-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jakarta-globe.png" group-title="News",Jakarta Globe
+http://185.238.0.145:1313/c/a/jakartaglobe-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jakarta-globe.png" group-title="News",Jakarta Globe
+http://185.238.0.145:1313/c/a/jakartaglobe-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cnn-indonesia.png" group-title="News",CNN Indonesia
+http://185.238.0.145:1313/c/a/cnnindonesia-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cnn-indonesia.png" group-title="News",CNN Indonesia
+http://185.238.0.145:1313/c/a/cnnindonesia-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cnn-indonesia.png" group-title="News",CNN Indonesia
+http://185.238.0.145:1313/c/a/cnnindonesia-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cnbc-indonesia.png" group-title="News",CNBC Indonesia
+http://185.238.0.145:1313/c/a/cnbcindonesia-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cnbc-indonesia.png" group-title="News",CNBC Indonesia
+http://185.238.0.145:1313/c/a/cnbcindonesia-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cnbc-indonesia.png" group-title="News",CNBC Indonesia
+http://185.238.0.145:1313/c/a/cnbcindonesia-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/idx-channel.png" group-title="News",IDX CHANNEL
+http://185.238.0.145:1313/c/alt/idx-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/idx-channel.png" group-title="News",IDX CHANNEL
+http://185.238.0.145:1313/c/alt/idx-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/idx-channel.png" group-title="News",IDX CHANNEL
+http://185.238.0.145:1313/c/alt/idx-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bloomberg.png" group-title="News",Bloomberg
+http://185.238.0.145:1313/c/alt/bloomberg-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bloomberg.png" group-title="News",Bloomberg
+http://185.238.0.145:1313/c/alt/bloomberg-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bloomberg.png" group-title="News",Bloomberg
+http://185.238.0.145:1313/c/alt/bloomberg-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-news-asia.png" group-title="News",Channel News Asia
+http://185.238.0.145:1313/c/alt/channelnewsasia-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-news-asia.png" group-title="News",Channel News Asia
+http://185.238.0.145:1313/c/alt/channelnewsasia-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-news-asia.png" group-title="News",Channel News Asia
+http://185.238.0.145:1313/c/alt/channelnewsasia-lq.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/b-lifestyle.png" group-title="Entertainment",B Lifestyle
+http://185.238.0.145:1313/c/a/blifestylehd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/inspira-tv.png" group-title="Entertainment",Inspira TV
+http://185.238.0.145:1313/c/a/inspiratv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png" group-title="Entertainment",Citra Entertainment
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png" group-title="Entertainment",Citra Entertainment
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png" group-title="Entertainment",Citra Entertainment
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cycle-world.png" group-title="Entertainment",Cycle World
+http://185.238.0.145:1313/c/a/cycleworld-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cycle-world.png" group-title="Entertainment",Cycle World
+http://185.238.0.145:1313/c/a/cycleworld-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cycle-world.png" group-title="Entertainment",Cycle World
+http://185.238.0.145:1313/c/a/cycleworld-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hallypop.png" group-title="Entertainment",Hallypop
+http://185.238.0.145:1313/c/a/hallypop-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hallypop.png" group-title="Entertainment",Hallypop
+http://185.238.0.145:1313/c/a/hallypop-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hallypop.png" group-title="Entertainment",Hallypop
+http://185.238.0.145:1313/c/a/hallypop-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outside-tv.png" group-title="Entertainment",Outside TV
+http://185.238.0.145:1313/c/a/outsidetv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outside-tv.png" group-title="Entertainment",Outside TV
+http://185.238.0.145:1313/c/a/outsidetv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outside-tv.png" group-title="Entertainment",Outside TV
+http://185.238.0.145:1313/c/a/outsidetv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/choppertown.png" group-title="Entertainment",Choppertown***
+http://185.238.0.145:1313/c/a/outsidetv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/entertainment.png" group-title="Entertainment",Entertainment
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/entertainment.png" group-title="Entertainment",Entertainment
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/entertainment.png" group-title="Entertainment",Entertainment
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/100-auto-moto-tv.png" group-title="Entertainment",100 Auto Moto TV
+http://185.238.0.145:1313/c/a/automoto.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/people-are-awesome.png" group-title="Entertainment",People Are Awesome
+http://185.238.0.145:1313/c/a/peopleareawesome-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/people-are-awesome.png" group-title="Entertainment",People Are Awesome
+http://185.238.0.145:1313/c/a/peopleareawesome-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/people-are-awesome.png" group-title="Entertainment",People Are Awesome
+http://185.238.0.145:1313/c/a/peopleareawesome-lq.m3u8
 
 
 
