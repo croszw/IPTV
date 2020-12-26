@@ -513,9 +513,161 @@ http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b7951f9081fefcff7b2f917eeb0c6aac&b=1
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-tv.png" group-title="Music",Prambors TV
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=0990fc3dbc01e3b6026e8a1860bd3d31&b=14&c=pramborstv&d=b684100
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ajwa-tv.png" group-title="Religious",Ajwa TV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=7bd66825e9a97424ffe5645549270832&b=7464&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ajwa-tv.png" group-title="Religious",Ajwa TV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=7bd66825e9a97424ffe5645549270832&b=7464&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ajwa-tv.png" group-title="Religious",Ajwa TV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=7bd66825e9a97424ffe5645549270832&b=7464&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/puldapii-tv.png" group-title="Religious",PULDAPII TV
+http://185.238.0.145:1313/c/a/puldapiitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rasyaad-tv.png" group-title="Religious",Rasyaad TV
+http://185.238.0.145:1313/c/a/rasyaadtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hijrah-tv.png" group-title="Religious",Hijrah TV
+http://185.238.0.145:1313/c/a/hijrahtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ashiil-tv.png" group-title="Religious",Ashiil TV
+http://185.238.0.145:1313/c/a/ashiiltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/izzah-tv.png" group-title="Religious",Izzah TV
+http://185.238.0.145:1313/c/a/izzahtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-muslim.png" group-title="Religious",Citra Muslim
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-muslim.png" group-title="Religious",Citra Muslim
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-muslim.png" group-title="Religious",Citra Muslim
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muadz-tv.png" group-title="Religious",Muadz TV
+http://185.238.0.145:1313/c/a/muadztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-bahjah-tv.png" group-title="Religious",Al-Bahjah TV
+http://185.238.0.145:1313/c/a/albahjahtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/surau-tv.png" group-title="Religious",Surau TV
+http://185.238.0.145:1313/c/a/surautv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nu-channel.png" group-title="Religious",NU Channel
+http://185.238.0.145:1313/c/a/nuchannel-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nu-channel.png" group-title="Religious",NU Channel
+http://185.238.0.145:1313/c/a/nuchannel-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/niaga-tv.png" group-title="Religious",Niaga TV
+http://185.238.0.145:1313/c/a/niagatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-iman-tv.png" group-title="Religious",Al-Iman TV
+http://185.238.0.145:1313/c/a/alimantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/salingsapa-tv.png" group-title="Religious",SalingSapa TV
+http://185.238.0.145:1313/c/alt/salingsapa-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/salingsapa-tv.png" group-title="Religious",SalingSapa TV
+http://185.238.0.145:1313/c/alt/salingsapa-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=889091ff744069cab08dc605d162a8d3&b=6482&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=889091ff744069cab08dc605d162a8d3&b=6482&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=889091ff744069cab08dc605d162a8d3&b=6482&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
+http://185.238.0.145:1313/c/a/daaitv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/salam-tv.png" group-title="Religious",Salam TV
+http://185.238.0.145:1313/c/a/salamtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/insan-tv.png" group-title="Religious",Insan TV
+http://185.238.0.145:1313/c/a/insantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ahsan-tv.png" group-title="Religious",AHSAN TV
+http://185.238.0.145:1313/c/a/ahsantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nabawi-tv.png" group-title="Religious",Nabawi TV
+http://185.238.0.145:1313/c/a/nabawitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rodja-tv.png" group-title="Religious",Rodja TV
+http://185.238.0.145:1313/c/max/rodjatv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rodja-tv.png" group-title="Religious",Rodja TV
+http://185.238.0.145:1313/c/max/rodjatv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rodja-tv.png" group-title="Religious",Rodja TV
+http://185.238.0.145:1313/c/alt/rodjatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-sunnah-al-nabawiyah.png" group-title="Religious",Al Sunnah Al Nabawiyah
+http://185.238.0.145:1313/c/a/alsunnahalnabawiyah-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-sunnah-al-nabawiyah.png" group-title="Religious",Al Sunnah Al Nabawiyah
+http://185.238.0.145:1313/c/a/alsunnahalnabawiyah-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-sunnah-al-nabawiyah.png" group-title="Religious",Al Sunnah Al Nabawiyah
+http://185.238.0.145:1313/c/alt/alsunnahalnabawiyah.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-quran-al-kareem.png" group-title="Religious",Al Quran Al Kareem
+http://185.238.0.145:1313/c/a/alquranalkareem-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-quran-al-kareem.png" group-title="Religious",Al Quran Al Kareem
+http://185.238.0.145:1313/c/a/alquranalkareem-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-quran-al-kareem.png" group-title="Religious",Al Quran Al Kareem
+http://185.238.0.145:1313/c/alt/alquranalkareem.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/u-channel.png" group-title="Religious",U Channel
+http://185.238.0.145:1313/c/a/uchannel-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/u-channel.png" group-title="Religious",U Channel
+http://185.238.0.145:1313/c/a/uchannel-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/iam.png" group-title="Religious",IAM
+http://185.238.0.145:1313/c/a/iam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mqtv.png" group-title="Religious",MQTV
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=8b8c39258b8b81aca926a166729237bf&b=14&c=mqtv&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtatv.png" group-title="Religious",mtatv
+http://185.238.0.145:1313/c/max/mtatv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtatv.png" group-title="Religious",mtatv
+http://185.238.0.145:1313/c/max/mtatv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtatv.png" group-title="Religious",mtatv
+http://185.238.0.145:1313/c/max/mtatv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-mui.png" group-title="Religious",TV MUI
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=4043b4df2200fe9fe357102c156038bd&b=14&c=muitv&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muhammadiyah-tv.png" group-title="Religious",Muhammadiyah TV
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=0a5bae6923685f52437a8e4d4d76d4e9&b=14&c=muhammadiyahtv&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muhammadiyah-tv.png" group-title="Religious",Muhammadiyah TV
+http://185.238.0.145:1313/c/ku/tvmu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tawaf-tv.png" group-title="Religious",Tawaf TV
+http://185.238.0.145:1313/c/alt/tawaftv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tawaf-tv.png" group-title="Religious",Tawaf TV
+http://185.238.0.145:1313/c/alt/tawaftv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv9.png" group-title="Religious",TV9
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=322a4de01a6f5811a16efcae6e0bfb64&b=14&c=tv9&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv9.png" group-title="Religious",TV9
+http://185.238.0.145:1313/c/alt/tv9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/siak-tv.png" group-title="Local",Siak TV
+http://185.238.0.145:1313/c/lokal/siaktv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/siak-tv.png" group-title="Local",Siak TV
+http://185.238.0.145:1313/c/lokal/siaktv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-desa.png" group-title="Local",TV DESA
+http://185.238.0.145:1313/c/lokal/tvdesa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/digdaya-tv.png" group-title="Local",DIGDAYA TV
+http://185.238.0.145:1313/c/g/digdayatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jurnal-tv.png" group-title="Local",Jurnal TV
+http://185.238.0.145:1313/c/lokal/jurnaltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smtv.png" group-title="Local",SMTV
+http://185.238.0.145:1313/c/lokal/smtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nirwana-tv.png" group-title="Local",Nirwana TV
+http://185.238.0.145:1313/c/lokal/nirwanatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/simpang5-tv.png" group-title="Local",Simpang5 TV
+http://185.238.0.145:1313/c/lokal/simpang5tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/betv-beken.png" group-title="Local",BETV Beken
+http://185.238.0.145:1313/c/lokal/betvbeken.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mgs-tv.png" group-title="Local",MGS TV
+http://185.238.0.145:1313/c/a/mgstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lombok-tv.png" group-title="Local",Lombok TV
+http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lombok-tv.png" group-title="Local",Lombok TV
+http://185.238.0.145:1313/c/max/lomboktv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lombok-tv.png" group-title="Local",Lombok TV
+http://185.238.0.145:1313/c/max/lomboktv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/madu-tv.png" group-title="Local",Madu TV
+http://185.238.0.145:1313/c/lokal/madutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bungo-tv.png" group-title="Local",Bungo TV
+http://185.238.0.145:1313/c/lokal/bungotv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bungo-tv.png" group-title="Local",Bungo TV
+http://185.238.0.145:1313/c/lokal/bungotv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/banten-tv.png" group-title="Local",Banten TV
+http://185.238.0.145:1313/c/lokal/bantentv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prima-tv.png" group-title="Local",Prima TV
+http://185.238.0.145:1313/c/lokal/primatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bandung-tv.png" group-title="Local",Bandung TV
+http://185.238.0.145:1313/c/a/bandungtv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bandung-tv.png" group-title="Local",Bandung TV
+http://185.238.0.145:1313/c/a/bandungtv-sd.m3u8
 
 
 
+
+
+
+
+
+
+http://185.238.0.145:1313/c/ku/disneyxd.m3u8
+http://185.238.0.145:1313/c/ku/disneyjunior.m3u8
+http://185.238.0.145:1313/c/ku/disneychannel.m3u8
 
 http://185.238.0.145:1313/c/ku/fox.m3u8
 http://185.238.0.145:1313/c/ku/foxlife.m3u8
