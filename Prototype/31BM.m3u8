@@ -460,12 +460,58 @@ http://185.238.0.145:1313/c/max/techstorm-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Knowledge",TechStorm
 http://185.238.0.145:1313/c/max/techstorm-lq.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Music",Stingray Karaoke
-http://185.238.0.145:1313/c/max/techstorm-lq.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/stingray-karaoke.png" group-title="Music",Stingray Karaoke
+http://185.238.0.145:1313/c/a/stingraykaraoke-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/stingray-karaoke.png" group-title="Music",Stingray Karaoke
+http://185.238.0.145:1313/c/a/stingraykaraoke-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/stingray-karaoke.png" group-title="Music",Stingray Karaoke
+http://185.238.0.145:1313/c/a/stingraykaraoke-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/baeble-music.png" group-title="Music",Baeble Music
+http://185.238.0.145:1313/c/a/baeble-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/baeble-music.png" group-title="Music",Baeble Music
+http://185.238.0.145:1313/c/a/baeble-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/baeble-music.png" group-title="Music",Baeble Music
+http://185.238.0.145:1313/c/a/baeble-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/country-music-4u.png" group-title="Music",Country Music 4U
+http://185.238.0.145:1313/c/a/countrymusic4u.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/street-music-4u.png" group-title="Music",Street Music 4U
+http://185.238.0.145:1313/c/a/streetmusic4u.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/maleo.png" group-title="Music",Maleo
+http://185.238.0.145:1313/c/alt/maleo-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/maleo.png" group-title="Music",Maleo
+http://185.238.0.145:1313/c/alt/maleo-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/pop-musik.png" group-title="Music",Pop Musik
+http://185.238.0.145:1313/c/alt/popmusik-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/pop-musik.png" group-title="Music",Pop Musik
+http://185.238.0.145:1313/c/alt/popmusik-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/m2o.png" group-title="Music",m2o
+http://185.238.0.145:1313/c/a/m20-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/m2o.png" group-title="Music",m2o
+http://185.238.0.145:1313/c/a/m20-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/m2o.png" group-title="Music",m2o
+http://185.238.0.145:1313/c/a/m20-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-v.png" group-title="Music",Channel V
+http://185.238.0.145:1313/c/pre/v-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-v.png" group-title="Music",Channel V
+http://185.238.0.145:1313/c/pre/v-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-v.png" group-title="Music",Channel V
+http://185.238.0.145:1313/c/pre/v-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/karaoke-channel.png" group-title="Music",Karaoke Channel
+http://185.238.0.145:1313/c/a/karaokechannel-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/karaoke-channel.png" group-title="Music",Karaoke Channel
+http://185.238.0.145:1313/c/a/karaokechannel-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/karaoke-channel.png" group-title="Music",Karaoke Channel
+http://185.238.0.145:1313/c/a/karaokechannel-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/i-konser.png" group-title="Music",i konser
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=eeb2169ad39b56506369b66966cac6fd&b=14&c=ikonser&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="Music",MTV LIVE
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="Music",MTV LIVE
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="Music",MTV LIVE
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-tv.png" group-title="Music",Prambors TV
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=0990fc3dbc01e3b6026e8a1860bd3d31&b=14&c=pramborstv&d=b684100
 
 
 
