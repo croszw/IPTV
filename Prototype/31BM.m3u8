@@ -389,6 +389,23 @@ http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=1
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b444100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
 http://185.238.0.145:1313/c/pre/outdoor.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="Knowledge",Lingua Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="Knowledge",Lingua Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="Knowledge",Lingua Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b494100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-edukasi.png" group-title="Knowledge",tv Edukasi
+http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-edukasi.png" group-title="Knowledge",tv Edukasi
+http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
+
 
 
 
