@@ -755,6 +755,40 @@ http://185.238.0.145:1313/c/alt/tvri-hd.m3u8
 http://185.238.0.145:1313/c/alt/tvri-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri.png" group-title="National",TVRI
 http://185.238.0.145:1313/c/alt/tvri-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-kanal-3.png" group-title="National",TVRI Kanal 3
+http://185.238.0.145:1313/c/alt/tvrikanal3-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-kanal-3.png" group-title="National",TVRI Kanal 3
+http://185.238.0.145:1313/c/alt/tvrikanal3-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-kanal-3.png" group-title="National",TVRI Kanal 3
+http://185.238.0.145:1313/c/alt/tvrikanal3-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sport.png" group-title="National",TVRI Sport
+http://185.238.0.145:1313/c/alt/tvrisport-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sport.png" group-title="National",TVRI Sport
+http://185.238.0.145:1313/c/alt/tvrisport-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri-sport.png" group-title="National",TVRI Sport
+http://185.238.0.145:1313/c/alt/tvrisport-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-tv.png" group-title="National",Trans TV
+http://185.238.0.145:1313/c/alt/transtv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-tv.png" group-title="National",Trans TV
+http://185.238.0.145:1313/c/alt/transtv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-tv.png" group-title="National",Trans TV
+http://185.238.0.145:1313/c/alt/transtv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-7.png" group-title="National",Trans 7
+http://185.238.0.145:1313/c/alt/trans7-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-7.png" group-title="National",Trans 7
+http://185.238.0.145:1313/c/alt/trans7-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-7.png" group-title="National",Trans 7
+http://185.238.0.145:1313/c/alt/trans7-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mnc-tv.png" group-title="National",MNC TV
+http://185.238.0.145:1313/c/alt/mnctv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mnc-tv.png" group-title="National",MNC TV
+http://185.238.0.145:1313/c/alt/mnctv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mnc-tv.png" group-title="National",MNC TV
+http://185.238.0.145:1313/c/alt/mnctv-lq.m3u8
+
+
+
+
 
 
 
