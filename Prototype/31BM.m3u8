@@ -361,6 +361,39 @@ http://185.238.0.145:1313/c/my/tv1-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-1.png" group-title="Malaysia",TV1
 http://185.238.0.145:1313/c/my/tv1-lq.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/onetv-discovery.png" group-title="Knowledge",OneTV Discovery
+http://185.238.0.145:1313/c/g/onetvdiscovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="Knowledge",HGTV
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="Knowledge",HGTV
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="Knowledge",HGTV
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dmax.png" group-title="Knowledge",DMAX
+http://185.238.0.145:1313/c/g/dmax-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dmax.png" group-title="Knowledge",DMAX
+http://185.238.0.145:1313/c/g/dmax-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dmax.png" group-title="Knowledge",DMAX
+http://185.238.0.145:1313/c/g/dmax-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bbc-earth.png" group-title="Knowledge",BBC Earth
+http://185.238.0.145:1313/c/pre/bbcearth-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bbc-earth.png" group-title="Knowledge",BBC Earth
+http://185.238.0.145:1313/c/pre/bbcearth-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bbc-earth.png" group-title="Knowledge",BBC Earth
+http://185.238.0.145:1313/c/pre/bbcearth-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/b-adventure-4k.png" group-title="Knowledge",B adventure 4K
+http://185.238.0.145:1313/c/a/badventure4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b444100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
+http://185.238.0.145:1313/c/pre/outdoor.m3u8
+
+
+
+
+
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
 http://185.238.0.145:1313/c/ku/foxmovies.m3u8
