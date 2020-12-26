@@ -656,6 +656,18 @@ http://185.238.0.145:1313/c/lokal/primatv.m3u8
 http://185.238.0.145:1313/c/a/bandungtv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bandung-tv.png" group-title="Local",Bandung TV
 http://185.238.0.145:1313/c/a/bandungtv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvtpi-tanjungpinang.png" group-title="Local",TVTPI Tanjungpinang
+http://185.238.0.145:1313/c/lokal/tvtpi-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvtpi-tanjungpinang.png" group-title="Local",TVTPI Tanjungpinang
+http://185.238.0.145:1313/c/lokal/tvtpi-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvtpi-tanjungpinang.png" group-title="Local",TVTPI Tanjungpinang
+http://185.238.0.145:1313/c/lokal/tvtpi-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ctv-banten.png" group-title="Local",CTV Banten
+http://185.238.0.145:1313/c/a/ctvbanten.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tegar-tv-lampung.png" group-title="Local",Tegar TV Lampung
+http://185.238.0.145:1313/c/a/tegartvlampung.m3u8
+
+
 
 
 
