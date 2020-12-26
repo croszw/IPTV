@@ -668,10 +668,38 @@ http://185.238.0.145:1313/c/a/ctvbanten.m3u8
 http://185.238.0.145:1313/c/a/tegartvlampung.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tegar-tv-jogja.png" group-title="Local",Tegar TV Jogja
 http://185.238.0.145:1313/c/a/tegartvjogja.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tabalong-tv.png" group-title="Local",Tabalong TV
+http://185.238.0.145:1313/c/a/tabalongtv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tabalong-tv.png" group-title="Local",Tabalong TV
+http://185.238.0.145:1313/c/a/tabalongtv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bms-tv-banyumas.png" group-title="Local",BMS TV Banyumas
+http://185.238.0.145:1313/c/lokal/bmstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/radar-tv-tasikmalaya.png" group-title="Local",Radar TV Tasikmalaya
+http://185.238.0.145:1313/c/lokal/radartv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bayu-tv-nganjuk.png" group-title="Local",Bayu TV Nganjuk
+http://185.238.0.145:1313/c/lokal/bayutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sakti-tv-madiun.png" group-title="Local",Sakti TV Madiun
+http://185.238.0.145:1313/c/lokal/saktitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/pontv-pontianak.png" group-title="Local",PONTV Pontianak
+http://185.238.0.145:1313/c/lokal/pontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-tv-lamongan.png" group-title="Local",Citra TV Lamongan
+http://185.238.0.145:1313/c/lokal/citratvlamongan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fajar-tv-makassar.png" group-title="Local",Fajar TV Makassar
+http://185.238.0.145:1313/c/lokal/fajartvmakassar.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jambi-tv.png" group-title="Local",Jambi TV
+http://185.238.0.145:1313/c/lokal/jambitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jtv-pacitan.png" group-title="Local",JTV Pacitan
+http://185.238.0.145:1313/c/lokal/jtvpacitan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sultra-tv-kendari.png" group-title="Local",Sutra TV Kendari
+http://185.238.0.145:1313/c/lokal/sultratv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/kawanua-tv-manado.png" group-title="Local",Kawanua TV Manado
+http://185.238.0.145:1313/c/lokal/kawanuatvmanado.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jektv-jambi.png" group-title="Local",JEKTV Jambi
+http://185.238.0.145:1313/c/lokal/jektvjambi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rbtv-bengkulu.png" group-title="Local",RBTV Bengkulu
+http://185.238.0.145:1313/c/lokal/rbtvbengkulu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtv-riau.png" group-title="Local",RTV Riau
+http://185.238.0.145:1313/c/lokal/riautv.m3u8
 
 
 
