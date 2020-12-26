@@ -405,12 +405,74 @@ http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=1
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-asia.png" group-title="Knowledge",Discovery Asia
+http://185.238.0.145:1313/c/pre/discoveryasia-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-asia.png" group-title="Knowledge",Discovery Asia
+http://185.238.0.145:1313/c/pre/discoveryasia-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-asia.png" group-title="Knowledge",Discovery Asia
+http://185.238.0.145:1313/c/pre/discoveryasia-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animal-planet.png" group-title="Knowledge",Animal Planet
+http://185.238.0.145:1313/c/pre/animalplanet-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animal-planet.png" group-title="Knowledge",Animal Planet
+http://185.238.0.145:1313/c/pre/animalplanet-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animal-planet.png" group-title="Knowledge",Animal Planet
+http://185.238.0.145:1313/c/pre/animalplanet-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="Knowledge",History Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="Knowledge",History Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="Knowledge",History Channel
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="Knowledge",Smithsonian Channel
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="Knowledge",Smithsonian Channel
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="Knowledge",Smithsonian Channel
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="Knowledge",NAT GEO People
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="Knowledge",NAT GEO People
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="Knowledge",NAT GEO People
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge",NAT GEO Wild
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge",NAT GEO Wild
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge",NAT GEO Wild
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge",National Geographic
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge",National Geographic
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge",National Geographic
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge",Love Nature
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge",Love Nature
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge",Love Nature
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Knowledge",TechStorm
+http://185.238.0.145:1313/c/max/techstorm-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Knowledge",TechStorm
+http://185.238.0.145:1313/c/max/techstorm-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Knowledge",TechStorm
+http://185.238.0.145:1313/c/max/techstorm-lq.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Music",Stingray Karaoke
+http://185.238.0.145:1313/c/max/techstorm-lq.m3u8
 
 
 
 
 
 
+
+
+
+http://185.238.0.145:1313/c/ku/fox.m3u8
+http://185.238.0.145:1313/c/ku/foxlife.m3u8
 http://185.238.0.145:1313/c/ku/foxcrime.m3u8
 http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
 http://185.238.0.145:1313/c/ku/foxmovies.m3u8
