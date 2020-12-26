@@ -700,6 +700,69 @@ http://185.238.0.145:1313/c/lokal/jektvjambi.m3u8
 http://185.238.0.145:1313/c/lokal/rbtvbengkulu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtv-riau.png" group-title="Local",RTV Riau
 http://185.238.0.145:1313/c/lokal/riautv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/btv-balikpapan.png" group-title="Local",BTV Balikpapan
+http://185.238.0.145:1313/c/lokal/balikpapantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rctv.png" group-title="Local",RCTV Cirebon
+http://185.238.0.145:1313/c/lokal/radarcirebontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/paltv.png" group-title="Local",PALTV Palembang
+http://185.238.0.145:1313/c/lokal/palembangtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jawapos-tv.png" group-title="Local",Jawapos TV
+http://185.238.0.145:1313/c/lokal/jawapostv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/btv.png" group-title="Local",BTV Batam
+http://185.238.0.145:1313/c/lokal/batamtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antara.png" group-title="Local",ANTARA
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=cff1f0f0eff214cf9011d2e73d6e0b40&b=14&c=antara&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bali-tv.png" group-title="Local",Bali TV
+http://185.238.0.145:1313/c/max/balitv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bali-tv.png" group-title="Local",Bali TV
+http://185.238.0.145:1313/c/max/balitv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bali-tv.png" group-title="Local",Bali TV
+http://185.238.0.145:1313/c/max/balitv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jitv.png" group-title="Local",jitv
+http://185.238.0.145:1313/c/alt/jitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/elshinta-tv.png" group-title="Local",Elshinta TV
+http://185.238.0.145:1313/c/a/elshintatv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/elshinta-tv.png" group-title="Local",Elshinta TV
+http://185.238.0.145:1313/c/a/elshintatv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jtv.png" group-title="Local",JTV
+http://185.238.0.145:1313/c/max/jtv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jtv.png" group-title="Local",JTV
+http://185.238.0.145:1313/c/max/jtv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jtv.png" group-title="Local",JTV
+http://185.238.0.145:1313/c/max/jtv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvku.png" group-title="Local",TVKU
+http://185.238.0.145:1313/c/a/tvku.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/aditv.png" group-title="Local",ADITV
+http://185.238.0.145:1313/c/a/aditv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tatv-2gpj7yh89kyw.png" group-title="Local",TATV
+http://185.238.0.145:1313/c/a/tatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arek-tv.png" group-title="Local",Arek TV
+http://185.238.0.145:1313/c/a/arektv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arek-tv.png" group-title="Local",Arek TV
+http://185.238.0.145:1313/c/a/arektv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jaktv.png" group-title="Local",JAKTV
+http://185.238.0.145:1313/c/max/jaktv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jaktv.png" group-title="Local",JAKTV
+http://185.238.0.145:1313/c/max/jaktv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jaktv.png" group-title="Local",JAKTV
+http://185.238.0.145:1313/c/max/jaktv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/jogja-tv.png" group-title="Local",Jogja TV
+http://185.238.0.145:1313/c/alt/jogjatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri.png" group-title="National",TVRI
+http://185.238.0.145:1313/c/alt/tvri-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri.png" group-title="National",TVRI
+http://185.238.0.145:1313/c/alt/tvri-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvri.png" group-title="National",TVRI
+http://185.238.0.145:1313/c/alt/tvri-lq.m3u8
+
+
+
+
+
+
+
+
 
 
 
