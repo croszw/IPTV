@@ -780,13 +780,47 @@ http://185.238.0.145:1313/c/alt/trans7-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/trans-7.png" group-title="National",Trans 7
 http://185.238.0.145:1313/c/alt/trans7-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mnc-tv.png" group-title="National",MNC TV
-http://185.238.0.145:1313/c/alt/mnctv-hd.m3u8
+http://185.238.0.145:1313/c/a/mnctv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mnc-tv.png" group-title="National",MNC TV
-http://185.238.0.145:1313/c/alt/mnctv-sd.m3u8
+http://185.238.0.145:1313/c/a/mnctv-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mnc-tv.png" group-title="National",MNC TV
-http://185.238.0.145:1313/c/alt/mnctv-lq.m3u8
-
-
+http://185.238.0.145:1313/c/a/mnctv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rcti.png" group-title="National",RCTI
+http://185.238.0.145:1313/c/a/rcti-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rcti.png" group-title="National",RCTI
+http://185.238.0.145:1313/c/a/rcti-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rcti.png" group-title="National",RCTI
+http://185.238.0.145:1313/c/a/rcti-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gtv.png" group-title="National",GTV
+http://185.238.0.145:1313/c/a/gtv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gtv.png" group-title="National",GTV
+http://185.238.0.145:1313/c/a/gtv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gtv.png" group-title="National",GTV
+http://185.238.0.145:1313/c/a/gtv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/inews.png" group-title="National",iNews
+http://185.238.0.145:1313/c/a/inews-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/inews.png" group-title="National",iNews
+http://185.238.0.145:1313/c/a/inews-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/inews.png" group-title="National",iNews
+http://185.238.0.145:1313/c/a/inews-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/indosiar.png" group-title="National",Indosiar
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/indosiar.png" group-title="National",Indosiar
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/indosiar.png" group-title="National",Indosiar
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sctv.png" group-title="National",SCTV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sctv.png" group-title="National",SCTV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sctv.png" group-title="National",SCTV
+http://185.238.0.145:1313/c/ku/see/f.m3u8?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antv.png" group-title="National",ANTV
+http://185.238.0.145:1313/c/g/antv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antv.png" group-title="National",ANTV
+http://185.238.0.145:1313/c/g/antv-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antv.png" group-title="National",ANTV
+http://185.238.0.145:1313/c/a/antv-hd.m3u8
 
 
 
