@@ -1121,6 +1121,36 @@ http://185.238.0.145:1313/c/ku/see/d.m3u8?a=ccdf76b5fe158066818731fccdf24919&b=1
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=ccdf76b5fe158066818731fccdf24919&b=15&c=afc&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/asian-food-network.png" group-title="Entertainment",Asian Food Network
 http://185.238.0.145:1313/c/pre/afn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lifetime.png" group-title="Entertainment",Lifetime
+http://185.238.0.145:1313/c/ku/see/d.m3u8?a=79f3a982fd2496a50c5ec8f88e9b608f&b=14&c=lifetime&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/redbull-tv.png" group-title="Entertainment",Redbull TV
+http://185.238.0.145:1313/c/a/redbulltv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/redbull-tv.png" group-title="Entertainment",Redbull TV
+http://185.238.0.145:1313/c/a/redbulltv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/redbull-tv.png" group-title="Entertainment",Redbull TV
+http://185.238.0.145:1313/c/a/redbulltv-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nhk-world-japan.png" group-title="Entertainment",NHK World Japan
+http://185.238.0.145:1313/c/alt/nhkworldjapan-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nhk-world-japan.png" group-title="Entertainment",NHK World Japan
+http://185.238.0.145:1313/c/alt/nhkworldjapan-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nhk-world-japan.png" group-title="Entertainment",NHK World Japan
+http://185.238.0.145:1313/c/alt/nhkworldjapan-lq.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nhk-world-japan.png" group-title="Kids",B Kids
+http://185.238.0.145:1313/c/alt/nhkworldjapan-lq.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
