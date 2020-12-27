@@ -981,11 +981,11 @@ http://185.238.0.145:1313/c/a/ntv.m3u8
 http://185.238.0.145:1313/c/alt/atv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/atv.png" group-title="Entertainment",ATV
 http://185.238.0.145:1313/c/alt/atv-sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/the-indonesian-channel.png" group-title="Entertainment",The Indonesian Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/the-indonesia-channel.png" group-title="Entertainment",The Indonesia Channel
 http://185.238.0.145:1313/c/max/tic-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/the-indonesian-channel.png" group-title="Entertainment",The Indonesian Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/the-indonesia-channel.png" group-title="Entertainment",The Indonesia Channel
 http://185.238.0.145:1313/c/max/tic-sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/the-indonesian-channel.png" group-title="Entertainment",The Indonesian Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/the-indonesia-channel.png" group-title="Entertainment",The Indonesia Channel
 http://185.238.0.145:1313/c/max/tic-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/el-john-tv.png" group-title="Entertainment",El john TV
 http://185.238.0.145:1313/c/a/eljohn-hd.m3u8
@@ -1025,7 +1025,7 @@ http://185.238.0.145:1313/c/max/useeprime-sd.m3u8
 http://185.238.0.145:1313/c/max/useeprime-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dunia-lain.png" group-title="Entertainment",Dunia Lain
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=6fbb752d15ccfea071c0d563cf68e997&b=14&c=dunialain&d=b684100
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/etgo.png" group-title="Entertainment",Eat&Go
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/eatgo.png" group-title="Entertainment",Eat&Go
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=a429c413e708434257820f96d42afd01&b=14&c=eatgo&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/insert.png" group-title="Entertainment",Insert
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=e0df5f3dfd2650ae5be9993434e2b2c0&b=14&c=insert&d=b684100
