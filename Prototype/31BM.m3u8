@@ -1094,7 +1094,7 @@ http://185.238.0.145:1313/c/ku/see/d.m3u8?a=11212100ad02e3b620718062ab1a287f&b=1
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox.png" group-title="Entertainment",FOX
 http://185.238.0.145:1313/c/ku/fox.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-life.png" group-title="Entertainment",FOX Life
-http://185.238.0.145:1313/c/ku/fox.m3u8
+http://185.238.0.145:1313/c/ku/foxlife.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/chinese-drama.png" group-title="Entertainment",Chinese Drama
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=1d3695a412cba1dcf01226acc9770409&b=14&c=chinesedrama&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn.png" group-title="Entertainment",tvN
