@@ -1,10 +1,5 @@
 #EXTM3U
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/klcbs.png" group-title="Radio",KLCBS
 http://185.238.0.145:1313/c/radio/klcbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/brava.png" group-title="Radio",Brava
@@ -1149,108 +1144,6 @@ http://185.238.0.145:1313/c/alt/nhkworldjapan-lq.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="HD",HGTV
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="HD",Outdoor Channel
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b1344100H
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="HD",Lingua Channel
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="HD",Discovery Channel
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="HD",History Channel
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="HD",NAT GEO People
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="HD",NAT GEO Wild
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="HD",National Geographic
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="HD",MTV LIVE
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/k-plus.png" group-title="HD",K-Plus
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=8ef531aeddf673e37af1b9ddd218c22b&b=15&c=kplus&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/kix.png" group-title="HD",KIX
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=e6ca88bac78bcf9de5362d50d6a20662&b=15&c=kix&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gem.png" group-title="HD",GEM
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b2227a1123247c5d687970792882b169&b=15&c=sgem&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/axn.png" group-title="HD",AXN
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=625fa0bfdb706073072b1d52884d47c6&b=15&c=axn&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/one.png" group-title="HD",ONE
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=5a0d527616c388728d7b93ed7ed0e3ac&b=15&c=sone&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/crime-investigation.png" group-title="HD",Crime Investigation
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/wakuwaku-japan.png" group-title="HD",WakuWaku Japan
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/asian-food-network.png" group-title="HD",Asian Food Network
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=ccdf76b5fe158066818731fccdf24919&b=15&c=afc&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="HD",Outdoor Channel
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/i-konser.png" group-title="HD",i konser
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=eeb2169ad39b56506369b66966cac6fd&b=14&c=ikonser&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-tv.png" group-title="HD",Prambors TV
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=0990fc3dbc01e3b6026e8a1860bd3d31&b=14&c=pramborstv&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mqtv.png" group-title="HD",MQTV
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=8b8c39258b8b81aca926a166729237bf&b=14&c=mqtv&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-mui.png" group-title="HD",TV MUI
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=4043b4df2200fe9fe357102c156038bd&b=14&c=muitv&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muhammadiyah-tv.png" group-title="HD",Muhammadiyah TV
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=0a5bae6923685f52437a8e4d4d76d4e9&b=14&c=muhammadiyahtv&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv9.png" group-title="HD",TV9
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=322a4de01a6f5811a16efcae6e0bfb64&b=14&c=tv9&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antara.png" group-title="HD",ANTARA
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=cff1f0f0eff214cf9011d2e73d6e0b40&b=14&c=antara&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dunia-lain.png" group-title="HD",Dunia Lain
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=6fbb752d15ccfea071c0d563cf68e997&b=14&c=dunialain&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/eatgo.png" group-title="HD",Eat&Go
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=a429c413e708434257820f96d42afd01&b=14&c=eatgo&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/insert.png" group-title="HD",Insert
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=e0df5f3dfd2650ae5be9993434e2b2c0&b=14&c=insert&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/m-shop.png" group-title="HD",M Shop
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=2fc00ab9a529797c595bdef3511ceb44&b=14&c=mncshop&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-extreme.png" group-title="HD",Blue Ant Extreme
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=645cb7297100b5880b80ee1ab953d0f5&b=14&c=blueantextreme&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-entertainment.png" group-title="HD",Blue Ant Entertainment
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=b70acb5723b8684e363f161abf00b91e&b=14&c=blueant&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/chinese-drama.png" group-title="HD",Chinese Drama
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=1d3695a412cba1dcf01226acc9770409&b=14&c=chinesedrama&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lifetime.png" group-title="HD",Lifetime
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=79f3a982fd2496a50c5ec8f88e9b608f&b=14&c=lifetime&d=b1344100
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/wakuwaku-japan.png" group-title="HD",WakuWaku Japan
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b1344100
 
 
 
