@@ -1353,12 +1353,27 @@ http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=10&c=3&d=RED
 http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=10&c=2&d=RED
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/red-by-hbo.png" group-title="Movies",Red by HBO
 http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=10&c=1&d=RED
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn-movies.png" group-title="Movies",tvN Movies
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e634d2e5a52687128135405dcec2a585&b=15&c=tvnmovies&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn-movies.png" group-title="Movies",tvN Movies
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e634d2e5a52687128135405dcec2a585&b=15&c=tvnmovies&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn-movies.png" group-title="Movies",tvN Movies
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e634d2e5a52687128135405dcec2a585&b=15&c=tvnmovies&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/warner-tv.png" group-title="Movies",tvN WARNER TV
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1660885848050e9ca9746ddd54e2de25&b=15&c=warner&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/warner-tv.png" group-title="Movies",tvN WARNER TV
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1660885848050e9ca9746ddd54e2de25&b=15&c=warner&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/warner-tv.png" group-title="Movies",tvN WARNER TV
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1660885848050e9ca9746ddd54e2de25&b=15&c=warner&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy.png" group-title="Movies",GALAXY
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e03239b27e34a5f7f3bde739459dd537&b=15&c=galaxy&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy.png" group-title="Movies",GALAXY
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e03239b27e34a5f7f3bde739459dd537&b=15&c=galaxy&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy.png" group-title="Movies",GALAXY
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e03239b27e34a5f7f3bde739459dd537&b=15&c=galaxy&d=b494100
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/zqtv-sport.png" group-title="Sports",ZQTV Sport
+http://iptv.zqstream.com/zqtv_sport/video.m3u8
 
 
 
