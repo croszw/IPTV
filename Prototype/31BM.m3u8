@@ -1374,7 +1374,32 @@ http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e03239b27e34a5f7f3bde739459dd537&
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/zqtv-sport.png" group-title="Sports",ZQTV Sport
 http://iptv.zqstream.com/zqtv_sport/video.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-1.png" group-title="Sports",Arena Sport 1
+http://185.238.0.145:1313/c/dolive/g/arenasport1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-1.png" group-title="Sports",Arena Sport 1
+http://185.238.0.145:1313/c/dolive/g/arenasport1-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-2.png" group-title="Sports",Arena Sport 2
+http://185.238.0.145:1313/c/dolive/g/arenasport2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-2.png" group-title="Sports",Arena Sport 2
+http://185.238.0.145:1313/c/dolive/g/arenasport2-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-3.png" group-title="Sports",Arena Sport 3
+http://185.238.0.145:1313/c/dolive/g/arenasport3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-3.png" group-title="Sports",Arena Sport 3
+http://185.238.0.145:1313/c/dolive/g/arenasport3-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-4.png" group-title="Sports",Arena Sport 4
+http://185.238.0.145:1313/c/dolive/g/arenasport4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-4.png" group-title="Sports",Arena Sport 4
+http://185.238.0.145:1313/c/dolive/g/arenasport4-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-4.png" group-title="Sports",Arena Sport 5
+http://185.238.0.145:1313/c/dolive/g/arenasport5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/arena-sport-4.png" group-title="Sports",Arena Sport 5
+http://185.238.0.145:1313/c/dolive/g/arenasport5-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bt-sport-3.png" group-title="Sports",BT Sport 3
+http://185.238.0.145:1313/c/dolive/g/btsport3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bt-sport-3.png" group-title="Sports",BT Sport 3
+http://185.238.0.145:1313/c/dolive/g/btsport3-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bt-sport-3.png" group-title="Sports",BT Sport 3
+http://185.238.0.145:1313/c/dolive/g/btsport3-sd.m3u8
 
 
 
