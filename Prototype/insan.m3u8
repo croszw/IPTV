@@ -81,4 +81,47 @@ http://wz.insantv.net/monitor/ch145.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
 http://wz.insantv.net/monitor/ch147.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
-http://wz.insantv.net/monitor/ch254.m3u8	
+http://wz.insantv.net/monitor/ch254.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch2/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch4/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch7/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch9/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch11/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch16/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch20/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch21/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch3/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch6/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch12/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch15/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch26/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch27/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+http://122.248.43.138:1935/ch28/myStream/chunklist.m3u8
