@@ -364,11 +364,11 @@ http://185.238.0.145:1313/c/my/tv1-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/onetv-discovery.png" group-title="Knowledge",OneTV Discovery
 http://185.238.0.145:1313/c/g/onetvdiscovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="Knowledge",HGTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="Knowledge",HGTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hgtv.png" group-title="Knowledge",HGTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dmax.png" group-title="Knowledge",DMAX
 http://185.238.0.145:1313/c/g/dmax-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dmax.png" group-title="Knowledge",DMAX
@@ -384,27 +384,27 @@ http://185.238.0.145:1313/c/pre/bbcearth-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/b-adventure-4k.png" group-title="Knowledge",B adventure 4K
 http://185.238.0.145:1313/c/a/badventure4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b444100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b444100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/outdoor-channel.png" group-title="Knowledge",Outdoor Channel
 http://185.238.0.145:1313/c/pre/outdoor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="Knowledge",Lingua Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="Knowledge",Lingua Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lingua-channel.png" group-title="Knowledge",Lingua Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b494100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=2a39ee0928adb4aae9ac585e29bcaac2&b=15&c=lingua&d=b494100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-edukasi.png" group-title="Knowledge",tv Edukasi
 http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-edukasi.png" group-title="Knowledge",tv Edukasi
 http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-channel.png" group-title="Knowledge",Discovery Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-asia.png" group-title="Knowledge",Discovery Asia
 http://185.238.0.145:1313/c/pre/discoveryasia-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/discovery-asia.png" group-title="Knowledge",Discovery Asia
@@ -418,41 +418,41 @@ http://185.238.0.145:1313/c/pre/animalplanet-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animal-planet.png" group-title="Knowledge",Animal Planet
 http://185.238.0.145:1313/c/pre/animalplanet-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="Knowledge",History Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="Knowledge",History Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/history-channel.png" group-title="Knowledge",History Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="Knowledge",Smithsonian Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="Knowledge",Smithsonian Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/smithsonian-channel.png" group-title="Knowledge",Smithsonian Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="Knowledge",NAT GEO People
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="Knowledge",NAT GEO People
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-people.png" group-title="Knowledge",NAT GEO People
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge",NAT GEO Wild
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge",NAT GEO Wild
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge",NAT GEO Wild
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge",National Geographic
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge",National Geographic
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge",National Geographic
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge",Love Nature
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge",Love Nature
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge",Love Nature
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Knowledge",TechStorm
 http://185.238.0.145:1313/c/max/techstorm-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/techstorm.png" group-title="Knowledge",TechStorm
@@ -503,22 +503,22 @@ http://185.238.0.145:1313/c/a/karaokechannel-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/karaoke-channel.png" group-title="Music",Karaoke Channel
 http://185.238.0.145:1313/c/a/karaokechannel-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/i-konser.png" group-title="Music",i konser
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=eeb2169ad39b56506369b66966cac6fd&b=14&c=ikonser&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=eeb2169ad39b56506369b66966cac6fd&b=14&c=ikonser&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="Music",MTV LIVE
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="Music",MTV LIVE
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtv-live.png" group-title="Music",MTV LIVE
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=b7951f9081fefcff7b2f917eeb0c6aac&b=15&c=mtvlive&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/prambors-tv.png" group-title="Music",Prambors TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=0990fc3dbc01e3b6026e8a1860bd3d31&b=14&c=pramborstv&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=0990fc3dbc01e3b6026e8a1860bd3d31&b=14&c=pramborstv&d=b684100
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ajwa-tv.png" group-title="Religious",Ajwa TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7bd66825e9a97424ffe5645549270832&b=7464&c=720p
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=7bd66825e9a97424ffe5645549270832&b=7464&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ajwa-tv.png" group-title="Religious",Ajwa TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7bd66825e9a97424ffe5645549270832&b=7464&c=480p
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=7bd66825e9a97424ffe5645549270832&b=7464&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/ajwa-tv.png" group-title="Religious",Ajwa TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7bd66825e9a97424ffe5645549270832&b=7464&c=360p
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=7bd66825e9a97424ffe5645549270832&b=7464&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/puldapii-tv.png" group-title="Religious",PULDAPII TV
 http://185.238.0.145:1313/c/a/puldapiitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rasyaad-tv.png" group-title="Religious",Rasyaad TV
@@ -530,11 +530,11 @@ http://185.238.0.145:1313/c/a/ashiiltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/izzah-tv.png" group-title="Religious",Izzah TV
 http://185.238.0.145:1313/c/a/izzahtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-muslim.png" group-title="Religious",Citra Muslim
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-muslim.png" group-title="Religious",Citra Muslim
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-muslim.png" group-title="Religious",Citra Muslim
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=c4f8a2db7f8704b0bdaa266d61ef48c3&b=6678&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muadz-tv.png" group-title="Religious",Muadz TV
 http://185.238.0.145:1313/c/a/muadztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/al-bahjah-tv.png" group-title="Religious",Al-Bahjah TV
@@ -554,11 +554,11 @@ http://185.238.0.145:1313/c/alt/salingsapa-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/salingsapa-tv.png" group-title="Religious",SalingSapa TV
 http://185.238.0.145:1313/c/alt/salingsapa-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=889091ff744069cab08dc605d162a8d3&b=6482&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=889091ff744069cab08dc605d162a8d3&b=6482&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=889091ff744069cab08dc605d162a8d3&b=6482&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=889091ff744069cab08dc605d162a8d3&b=6482&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=889091ff744069cab08dc605d162a8d3&b=6482&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=889091ff744069cab08dc605d162a8d3&b=6482&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/daai-tv.png" group-title="Religious",DAAI TV
 http://185.238.0.145:1313/c/a/daaitv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/salam-tv.png" group-title="Religious",Salam TV
@@ -594,7 +594,7 @@ http://185.238.0.145:1313/c/a/uchannel-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/iam.png" group-title="Religious",IAM
 http://185.238.0.145:1313/c/a/iam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mqtv.png" group-title="Religious",MQTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=8b8c39258b8b81aca926a166729237bf&b=14&c=mqtv&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=8b8c39258b8b81aca926a166729237bf&b=14&c=mqtv&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtatv.png" group-title="Religious",mtatv
 http://185.238.0.145:1313/c/max/mtatv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtatv.png" group-title="Religious",mtatv
@@ -602,9 +602,9 @@ http://185.238.0.145:1313/c/max/mtatv-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mtatv.png" group-title="Religious",mtatv
 http://185.238.0.145:1313/c/max/mtatv-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-mui.png" group-title="Religious",TV MUI
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=4043b4df2200fe9fe357102c156038bd&b=14&c=muitv&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=4043b4df2200fe9fe357102c156038bd&b=14&c=muitv&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muhammadiyah-tv.png" group-title="Religious",Muhammadiyah TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=0a5bae6923685f52437a8e4d4d76d4e9&b=14&c=muhammadiyahtv&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=0a5bae6923685f52437a8e4d4d76d4e9&b=14&c=muhammadiyahtv&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/muhammadiyah-tv.png" group-title="Religious",Muhammadiyah TV
 http://185.238.0.145:1313/c/ku/tvmu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tawaf-tv.png" group-title="Religious",Tawaf TV
@@ -612,7 +612,7 @@ http://185.238.0.145:1313/c/alt/tawaftv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tawaf-tv.png" group-title="Religious",Tawaf TV
 http://185.238.0.145:1313/c/alt/tawaftv-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv9.png" group-title="Religious",TV9
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=322a4de01a6f5811a16efcae6e0bfb64&b=14&c=tv9&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=322a4de01a6f5811a16efcae6e0bfb64&b=14&c=tv9&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv9.png" group-title="Religious",TV9
 http://185.238.0.145:1313/c/alt/tv9.m3u8
 
@@ -711,7 +711,7 @@ http://185.238.0.145:1313/c/lokal/jawapostv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/btv.png" group-title="Local",BTV Batam
 http://185.238.0.145:1313/c/lokal/batamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antara.png" group-title="Local",ANTARA
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=cff1f0f0eff214cf9011d2e73d6e0b40&b=14&c=antara&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=cff1f0f0eff214cf9011d2e73d6e0b40&b=14&c=antara&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bali-tv.png" group-title="Local",Bali TV
 http://185.238.0.145:1313/c/max/balitv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bali-tv.png" group-title="Local",Bali TV
@@ -804,17 +804,17 @@ http://185.238.0.145:1313/c/a/inews-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/inews.png" group-title="National",iNews
 http://185.238.0.145:1313/c/a/inews-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/indosiar.png" group-title="National",Indosiar
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/indosiar.png" group-title="National",Indosiar
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/indosiar.png" group-title="National",Indosiar
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=eae27d77ca20db309e056e3d2dcd7d69&b=205&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sctv.png" group-title="National",SCTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sctv.png" group-title="National",SCTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sctv.png" group-title="National",SCTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=274ad4786c3abca69fa097b85867d9a4&b=204&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antv.png" group-title="National",ANTV
 http://185.238.0.145:1313/c/g/antv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/antv.png" group-title="National",ANTV
@@ -840,17 +840,17 @@ http://185.238.0.145:1313/c/max/metrotv-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/metro-tv.png" group-title="National",Metro TV
 http://185.238.0.145:1313/c/max/metrotv-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/net-tv.png" group-title="National",NET TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=4b0a59ddf11c58e7446c9df0da541a84&b=875&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=4b0a59ddf11c58e7446c9df0da541a84&b=875&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/net-tv.png" group-title="National",NET TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=4b0a59ddf11c58e7446c9df0da541a84&b=875&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=4b0a59ddf11c58e7446c9df0da541a84&b=875&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/net-tv.png" group-title="National",NET TV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=4b0a59ddf11c58e7446c9df0da541a84&b=875&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=4b0a59ddf11c58e7446c9df0da541a84&b=875&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtv.png" group-title="National",RTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b132ecc1609bfcf302615847c1caa69a&b=geo_1561&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=b132ecc1609bfcf302615847c1caa69a&b=geo_1561&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtv.png" group-title="National",RTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b132ecc1609bfcf302615847c1caa69a&b=geo_1561&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=b132ecc1609bfcf302615847c1caa69a&b=geo_1561&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rtv.png" group-title="National",RTV
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b132ecc1609bfcf302615847c1caa69a&b=geo_1561&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=b132ecc1609bfcf302615847c1caa69a&b=geo_1561&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mytv.png" group-title="National",mytv
 http://185.238.0.145:1313/c/max/mytv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/mytv.png" group-title="National",mytv
@@ -912,11 +912,11 @@ http://185.238.0.145:1313/c/a/blifestylehd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/inspira-tv.png" group-title="Entertainment",Inspira TV
 http://185.238.0.145:1313/c/a/inspiratv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png" group-title="Entertainment",Citra Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png" group-title="Entertainment",Citra Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png" group-title="Entertainment",Citra Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=72c25197b6a491816d9a84b42d7205f0&b=6402&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cycle-world.png" group-title="Entertainment",Cycle World
 http://185.238.0.145:1313/c/a/cycleworld-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cycle-world.png" group-title="Entertainment",Cycle World
@@ -938,11 +938,11 @@ http://185.238.0.145:1313/c/a/outsidetv-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/choppertown.png" group-title="Entertainment",Choppertown***
 http://185.238.0.145:1313/c/a/outsidetv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/entertainment.png" group-title="Entertainment",Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/entertainment.png" group-title="Entertainment",Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/entertainment.png" group-title="Entertainment",Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/100-auto-moto-tv.png" group-title="Entertainment",100 Auto Moto TV
 http://185.238.0.145:1313/c/a/automoto.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/people-are-awesome.png" group-title="Entertainment",People Are Awesome
@@ -992,11 +992,11 @@ http://185.238.0.145:1313/c/a/eljohn-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/el-john-tv.png" group-title="Entertainment",El john TV
 http://185.238.0.145:1313/c/a/eljohn-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/o-channel.png" group-title="Entertainment",O Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7eabe3a1649ffa2b3ff8c02ebfd5659f&b=206&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=7eabe3a1649ffa2b3ff8c02ebfd5659f&b=206&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/o-channel.png" group-title="Entertainment",O Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7eabe3a1649ffa2b3ff8c02ebfd5659f&b=206&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=7eabe3a1649ffa2b3ff8c02ebfd5659f&b=206&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/o-channel.png" group-title="Entertainment",O Channel
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7eabe3a1649ffa2b3ff8c02ebfd5659f&b=206&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=7eabe3a1649ffa2b3ff8c02ebfd5659f&b=206&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/rri-net.png" group-title="Entertainment",RRI NET
 http://185.238.0.145:1313/c/a/rrinet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/idku.png" group-title="Entertainment",idKU
@@ -1024,13 +1024,13 @@ http://185.238.0.145:1313/c/max/useeprime-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/usee-prime.png" group-title="Entertainment",Usee Prime
 http://185.238.0.145:1313/c/max/useeprime-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dunia-lain.png" group-title="Entertainment",Dunia Lain
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=6fbb752d15ccfea071c0d563cf68e997&b=14&c=dunialain&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=6fbb752d15ccfea071c0d563cf68e997&b=14&c=dunialain&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/eatgo.png" group-title="Entertainment",Eat&Go
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=a429c413e708434257820f96d42afd01&b=14&c=eatgo&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=a429c413e708434257820f96d42afd01&b=14&c=eatgo&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/insert.png" group-title="Entertainment",Insert
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=e0df5f3dfd2650ae5be9993434e2b2c0&b=14&c=insert&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e0df5f3dfd2650ae5be9993434e2b2c0&b=14&c=insert&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/m-shop.png" group-title="Entertainment",M Shop
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2fc00ab9a529797c595bdef3511ceb44&b=14&c=mncshop&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=2fc00ab9a529797c595bdef3511ceb44&b=14&c=mncshop&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hi-indo.png" group-title="Entertainment",Hi Indo!
 http://185.238.0.145:1313/c/max/hi-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hi-indo.png" group-title="Entertainment",Hi Indo!
@@ -1038,77 +1038,77 @@ http://185.238.0.145:1313/c/max/hi-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hi-indo.png" group-title="Entertainment",Hi Indo!
 http://185.238.0.145:1313/c/max/hi-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-dangdut.png" group-title="Entertainment",Citra Dangdut
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2e2c4bf7ceaa4712a72dd5ee136dc9a8&b=6587&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=2e2c4bf7ceaa4712a72dd5ee136dc9a8&b=6587&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-dangdut.png" group-title="Entertainment",Citra Dangdut
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2e2c4bf7ceaa4712a72dd5ee136dc9a8&b=6587&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=2e2c4bf7ceaa4712a72dd5ee136dc9a8&b=6587&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-dangdut.png" group-title="Entertainment",Citra Dangdut
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=2e2c4bf7ceaa4712a72dd5ee136dc9a8&b=6587&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=2e2c4bf7ceaa4712a72dd5ee136dc9a8&b=6587&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/k-plus.png" group-title="Entertainment",K-Plus
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=8ef531aeddf673e37af1b9ddd218c22b&b=15&c=kplus&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=8ef531aeddf673e37af1b9ddd218c22b&b=15&c=kplus&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/k-plus.png" group-title="Entertainment",K-Plus
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=8ef531aeddf673e37af1b9ddd218c22b&b=15&c=kplus&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=8ef531aeddf673e37af1b9ddd218c22b&b=15&c=kplus&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/k-plus.png" group-title="Entertainment",K-Plus
 http://185.238.0.145:1313/c/a/k+-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/kix.png" group-title="Entertainment",KIX
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=e6ca88bac78bcf9de5362d50d6a20662&b=15&c=kix&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e6ca88bac78bcf9de5362d50d6a20662&b=15&c=kix&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/kix.png" group-title="Entertainment",KIX
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=e6ca88bac78bcf9de5362d50d6a20662&b=15&c=kix&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e6ca88bac78bcf9de5362d50d6a20662&b=15&c=kix&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/kix.png" group-title="Entertainment",KIX
 http://185.238.0.145:1313/c/a/kix-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gem.png" group-title="Entertainment",GEM
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b2227a1123247c5d687970792882b169&b=15&c=sgem&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=b2227a1123247c5d687970792882b169&b=15&c=sgem&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gem.png" group-title="Entertainment",GEM
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b2227a1123247c5d687970792882b169&b=15&c=sgem&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=b2227a1123247c5d687970792882b169&b=15&c=sgem&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/gem.png" group-title="Entertainment",GEM
 http://185.238.0.145:1313/c/a/sonygem-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-extreme.png" group-title="Entertainment",Blue Ant Extreme
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=645cb7297100b5880b80ee1ab953d0f5&b=14&c=blueantextreme&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=645cb7297100b5880b80ee1ab953d0f5&b=14&c=blueantextreme&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-extreme.png" group-title="Entertainment",Blue Ant Extreme
 http://185.238.0.145:1313/c/a/blueantextreme-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-extreme.png" group-title="Entertainment",Blue Ant Extreme
 http://185.238.0.145:1313/c/a/blueantextreme-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-entertainment.png" group-title="Entertainment",Blue Ant Entertainment
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=b70acb5723b8684e363f161abf00b91e&b=14&c=blueant&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=b70acb5723b8684e363f161abf00b91e&b=14&c=blueant&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-entertainment.png" group-title="Entertainment",Blue Ant Entertainment
 http://185.238.0.145:1313/c/a/blueantentertainment-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/blue-ant-entertainment.png" group-title="Entertainment",Blue Ant Entertainment
 http://185.238.0.145:1313/c/a/blueantentertainment-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/axn.png" group-title="Entertainment",AXN
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=625fa0bfdb706073072b1d52884d47c6&b=15&c=axn&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=625fa0bfdb706073072b1d52884d47c6&b=15&c=axn&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/axn.png" group-title="Entertainment",AXN
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=625fa0bfdb706073072b1d52884d47c6&b=15&c=axn&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=625fa0bfdb706073072b1d52884d47c6&b=15&c=axn&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/axn.png" group-title="Entertainment",AXN
 http://185.238.0.145:1313/c/a/axn-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/one.png" group-title="Entertainment",ONE
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=5a0d527616c388728d7b93ed7ed0e3ac&b=15&c=sone&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=5a0d527616c388728d7b93ed7ed0e3ac&b=15&c=sone&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/one.png" group-title="Entertainment",ONE
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=5a0d527616c388728d7b93ed7ed0e3ac&b=15&c=sone&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=5a0d527616c388728d7b93ed7ed0e3ac&b=15&c=sone&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/one.png" group-title="Entertainment",ONE
 http://185.238.0.145:1313/c/a/sonyone-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/crime-investigation.png" group-title="Entertainment",Crime Investigation
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/crime-investigation.png" group-title="Entertainment",Crime Investigation
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/crime-investigation.png" group-title="Entertainment",Crime Investigation
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b494100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=11212100ad02e3b620718062ab1a287f&b=15&c=crimeinvestigation&d=b494100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox.png" group-title="Entertainment",FOX
 http://185.238.0.145:1313/c/ku/fox.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-life.png" group-title="Entertainment",FOX Life
 http://185.238.0.145:1313/c/ku/foxlife.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/chinese-drama.png" group-title="Entertainment",Chinese Drama
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=1d3695a412cba1dcf01226acc9770409&b=14&c=chinesedrama&d=b684100
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=1d3695a412cba1dcf01226acc9770409&b=14&c=chinesedrama&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn.png" group-title="Entertainment",tvN
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=720p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn.png" group-title="Entertainment",tvN
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=480p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvn.png" group-title="Entertainment",tvN
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=360p
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=360p
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/wakuwaku-japan.png" group-title="Entertainment",WakuWaku Japan
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/wakuwaku-japan.png" group-title="Entertainment",WakuWaku Japan
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/wakuwaku-japan.png" group-title="Entertainment",WakuWaku Japan
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1bfc88fd0d4c9a2ff74b80258c4f482d&b=15&c=wakuwaku&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tlc.png" group-title="Entertainment",TLC
 http://185.238.0.145:1313/c/pre/tlc-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tlc.png" group-title="Entertainment",TLC
@@ -1116,13 +1116,13 @@ http://185.238.0.145:1313/c/pre/tlc-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tlc.png" group-title="Entertainment",TLC
 http://185.238.0.145:1313/c/pre/tlc-lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/asian-food-network.png" group-title="Entertainment",Asian Food Network
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=ccdf76b5fe158066818731fccdf24919&b=15&c=afc&d=b1344100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=ccdf76b5fe158066818731fccdf24919&b=15&c=afc&d=b1344100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/asian-food-network.png" group-title="Entertainment",Asian Food Network
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=ccdf76b5fe158066818731fccdf24919&b=15&c=afc&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=ccdf76b5fe158066818731fccdf24919&b=15&c=afc&d=b894100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/asian-food-network.png" group-title="Entertainment",Asian Food Network
 http://185.238.0.145:1313/c/pre/afn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lifetime.png" group-title="Entertainment",Lifetime
-http://185.238.0.145:1313/c/ku/see/e.MiBiFUN?a=79f3a982fd2496a50c5ec8f88e9b608f&b=14&c=lifetime&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=79f3a982fd2496a50c5ec8f88e9b608f&b=14&c=lifetime&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/redbull-tv.png" group-title="Entertainment",Redbull TV
 http://185.238.0.145:1313/c/a/redbulltv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/redbull-tv.png" group-title="Entertainment",Redbull TV
@@ -1142,18 +1142,7 @@ http://185.238.0.145:1313/c/a/bkidshd.m3u8
 http://185.238.0.145:1313/c/lokal/hugocity-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hugo-city-channel.png" group-title="Kids",Hugo City Channel
 http://185.238.0.145:1313/c/lokal/hugocity-sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hip-hip-horee.png" group-title="Kids",Hip Hip Horee!
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=720p
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hip-hip-horee.png" group-title="Kids",Hip Hip Horee!
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hip-hip-horee.png" group-title="Kids",Hip Hip Horee!
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=360p
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=720p
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=360p
+
 
 
 
