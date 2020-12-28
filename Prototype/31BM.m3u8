@@ -1293,6 +1293,67 @@ http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=5caf1a2c96ae8d2770427f4f1310434a&
 http://185.238.0.145:1313/c/a/animax-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animax.png" group-title="Movies",Animax
 http://185.238.0.145:1313/c/a/animax-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/my-cinema.png" group-title="Movies",My Cinema
+http://185.238.0.145:1313/c/a/mycinema-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/my-cinema.png" group-title="Movies",My Cinema
+http://185.238.0.145:1313/c/a/mycinema-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hits.png" group-title="Movies",Hits
+http://185.238.0.145:1313/c/a/hits-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hits.png" group-title="Movies",Hits
+http://185.238.0.145:1313/c/a/hits-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hits.png" group-title="Movies",Hits
+http://185.238.0.145:1313/c/g/hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lbs-tv-k-drama.png" group-title="Movies",LBS TV K-Drama
+http://185.238.0.145:1313/c/ku/see/b.MiBiFUN?a=105
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lbs-tv-k-drama.png" group-title="Movies",LBS TV K-Drama
+http://185.238.0.145:1313/c/ku/see/a.MiBiFUN?a=rP1kMJ56ot==
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/lbs-tv-k-drama.png" group-title="Movies",LBS TV K-Drama
+http://185.238.0.145:1313/c/a/lbstvkdrama-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-crime.png" group-title="Movies",FOX Crime
+http://185.238.0.145:1313/c/ku/foxcrime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-family-movies.png" group-title="Movies",FOX Family Movies
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-movies" group-title="Movies",FOX Movies
+http://185.238.0.145:1313/c/ku/foxmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-movies.png" group-title="Movies",FOX Action Movies
+http://185.238.0.145:1313/c/ku/foxactionmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo.png" group-title="Movies",HBO
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=13&c=3&d=HBO
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo.png" group-title="Movies",HBO
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=13&c=2&d=HBO
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo.png" group-title="Movies",HBO
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=13&c=1&d=HBO
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-family.png" group-title="Movies",HBO Family
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=6&b=11&c=3&d=FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-family.png" group-title="Movies",HBO Family
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=6&b=11&c=2&d=FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-family.png" group-title="Movies",HBO Family
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=6&b=11&c=1&d=FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-hits.png" group-title="Movies",HBO Hits
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=11&c=3&d=HITS
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-hits.png" group-title="Movies",HBO Hits
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=11&c=2&d=HITS
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-hits.png" group-title="Movies",HBO Hits
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=11&c=1&d=HITS
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-signature.png" group-title="Movies",HBO Signature
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=11&c=3&d=SIG
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-signature.png" group-title="Movies",HBO Signature
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=11&c=2&d=SIG
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hbo-signature.png" group-title="Movies",HBO Signature
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=11&c=1&d=SIG
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cinemax.png" group-title="Movies",Cinemax
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=6&b=13&c=3&d=MAX
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cinemax.png" group-title="Movies",Cinemax
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=6&b=13&c=2&d=MAX
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cinemax.png" group-title="Movies",Cinemax
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=6&b=13&c=1&d=MAX
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/red-by-hbo.png" group-title="Movies",Red by HBO
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=10&c=3&d=RED
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/red-by-hbo.png" group-title="Movies",Red by HBO
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=10&c=2&d=RED
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/red-by-hbo.png" group-title="Movies",Red by HBO
+http://185.238.0.145:1313/c/ku/see/c.MiBiFUN?a=5&b=10&c=1&d=RED
+
 
 
 
