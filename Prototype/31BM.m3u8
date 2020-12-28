@@ -1223,7 +1223,32 @@ http://185.238.0.145:1313/c/ku/see/b.MiBiFUN?a=107
 http://185.238.0.145:1313/c/ku/see/a.MiBiFUN?a=MaMupachqzSkLzSlMaMhYJf=
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sinema-indonesia-x.png" group-title="Movies",Sinema Indonesia X
 http://185.238.0.145:1313/c/ku/see/b.MiBiFUN?a=106
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-bioskop.png" group-title="Movies",Citra Bioskop
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-bioskop.png" group-title="Movies",Citra Bioskop
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-bioskop.png" group-title="Movies",Citra Bioskop
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/celestial-classic-movies.png" group-title="Movies",Celestial Classic Movies
+http://185.238.0.145:1313/c/pre/ccm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/celestial-classic-movies.png" group-title="Movies",Celestial Classic Movies
+http://185.238.0.145:1313/c/ku/ccm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy-premium.png" group-title="Movies",Galaxy Premium
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e91c148e4a522735af840d330b2c4c9e&b=15&c=galaxypremium&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy-premium.png" group-title="Movies",Galaxy Premium
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e91c148e4a522735af840d330b2c4c9e&b=15&c=galaxypremium&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy-premium.png" group-title="Movies",Galaxy Premium
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=e91c148e4a522735af840d330b2c4c9e&b=15&c=galaxypremium&d=b494100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/imc.png" group-title="Movies",imc
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=601dd4047a1b7be8c6d9896b80447d5c&b=14&c=imc&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bioskop-indonesia.png" group-title="Movies",Bioskop Indonesia
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=1c7cd47eb6d44a98d7dfb408ac93346b&b=14&c=bioskopindonesia&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cira-drama.png" group-title="Movies",Citra Drama
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=012d9fe15b2493f21902cd55603382ec&b=6401&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cira-drama.png" group-title="Movies",Citra Drama
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=012d9fe15b2493f21902cd55603382ec&b=6401&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cira-drama.png" group-title="Movies",Citra Drama
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=012d9fe15b2493f21902cd55603382ec&b=6401&c=360p
 
 
 
