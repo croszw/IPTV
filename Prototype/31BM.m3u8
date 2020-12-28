@@ -1207,9 +1207,13 @@ http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
 http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=360p
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Movies",HOREE
-http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=360p
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tvin.png" group-title="Movies",TViin
+http://185.238.0.145:1313/c/ku/see/b.MiBiFUN?a=115
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cinta-bolly.png" group-title="Movies",Cinta Bolly
+http://185.238.0.145:1313/c/ku/see/b.MiBiFUN?a=114
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-p.png" group-title="Movies",TV P
+http://185.238.0.145:1313/c/ku/see/b.MiBiFUN?a=111
+http://iptv.zqstream.com/zqtv_drama/video.m3u8
 
 
 
