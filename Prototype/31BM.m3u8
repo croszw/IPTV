@@ -1142,17 +1142,73 @@ http://185.238.0.145:1313/c/a/bkidshd.m3u8
 http://185.238.0.145:1313/c/lokal/hugocity-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hugo-city-channel.png" group-title="Kids",Hugo City Channel
 http://185.238.0.145:1313/c/lokal/hugocity-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hip-hip-horee.png" group-title="Kids",Hip Hip Horee!
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hip-hip-horee.png" group-title="Kids",Hip Hip Horee!
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hip-hip-horee.png" group-title="Kids",Hip Hip Horee!
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/disney-xd.png" group-title="Kids",Disney XD
+http://185.238.0.145:1313/c/ku/disneyxd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/my-kids.png" group-title="Kids",My Kids
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=5f97d16a4406b38ff5a49de81e7d9fea&b=14&c=mykids&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/my-kids.png" group-title="Kids",My Kids
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=5f97d16a4406b38ff5a49de81e7d9fea&b=14&c=mykids&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/my-kids.png" group-title="Kids",My Kids
+http://185.238.0.145:1313/c/a/mykids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/disney-junior.png" group-title="Kids",Disney Junior
+http://185.238.0.145:1313/c/ku/disneyjunior.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/disney-channel.png" group-title="Kids",Disney Channel
+http://185.238.0.145:1313/c/ku/disneychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dreamworks.png" group-title="Kids",DreamWorks
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=def4a8e6dcb356771aef3c3ac472f905&b=15&c=dreamworks&d=b1344100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dreamworks.png" group-title="Kids",DreamWorks
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=def4a8e6dcb356771aef3c3ac472f905&b=15&c=dreamworks&d=b894100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dreamworks.png" group-title="Kids",DreamWorks
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=def4a8e6dcb356771aef3c3ac472f905&b=15&c=dreamworks&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/da-vinci-learning.png" group-title="Kids",Da Vinci Learning
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=6828f61cee49c7a4da0f9c1d3e03b857&b=geo_6549&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/da-vinci-learning.png" group-title="Kids",Da Vinci Learning
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=6828f61cee49c7a4da0f9c1d3e03b857&b=geo_6549&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/da-vinci-learning.png" group-title="Kids",Da Vinci Learning
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=6828f61cee49c7a4da0f9c1d3e03b857&b=geo_6549&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/spacetoon.png" group-title="Kids",Spacetoon
+http://185.238.0.145:1313/c/a/spacetoon-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/spacetoon.png" group-title="Kids",Spacetoon
+http://185.238.0.145:1313/c/a/spacetoon-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/spacetoon.png" group-title="Kids",Spacetoon
+http://185.238.0.145:1313/c/ku/see/a.MiBiFUN?a=MzAhpUWaLzWu
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/zoomoo.png" group-title="Kids",Zoomoo
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=90fd26a243f6d14c4b3df082cdc8da66&b=geo_6533&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/zoomoo.png" group-title="Kids",Zoomoo
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=90fd26a243f6d14c4b3df082cdc8da66&b=geo_6533&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/zoomoo.png" group-title="Kids",Zoomoo
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=90fd26a243f6d14c4b3df082cdc8da66&b=geo_6533&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bbc-cbeebies.png" group-title="Kids",BBC Cbeebies
+http://185.238.0.145:1313/c/pre/bbccbeebies-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nickelodeon.png" group-title="Kids",Nickelodeon
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=f19b88e6cb8cb067565bb3880b2fb3e1&b=14&c=nickelodeon&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nickelodeon.png" group-title="Kids",nickjr.
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=913c4858c66af34fc5575fcb46f3fecb&b=14&c=nickjr&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/cartoon-network.png" group-title="Kids",Cartoon Network
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=87dfc97a7654b4b7ad9f04767361eca9&b=14&c=cartoonnetwork&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/duck-tv.png" group-title="Kids",Duck TV
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=72b6581acc839b106bc92e8b21d6313a&b=14&c=ducktv&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/baby-first.png" group-title="Kids",Baby First
+http://185.238.0.145:1313/c/alt/babyfirst.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/boomerang.png" group-title="Kids",Boomerang
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=f91022004ce9aab1397c498ec1ee684b&b=14&c=boomerang&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/dunia-anak.png" group-title="Kids",Dunia Anak
+http://185.238.0.145:1313/c/ku/see/d.MiBiFUN?a=352b1a859489df76c74fb7e0b41362ef&b=14&c=duniaanak&d=b684100
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Kids",HOREE
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=360p
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/horee.png" group-title="Movies",HOREE
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=360p
 
 
 
