@@ -369,3 +369,292 @@ http://200.54.19.131:8500/play/a0ec/index.m3u8
 http://200.54.19.131:8500/play/a0e3/index.m3u8
 #EXTINF:-1,Zona Latina
 http://200.54.19.131:8500/play/a0d7/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", VTV7 HD
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTV8 HD
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTV9 HD
+https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTV2 HD
+https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTV3
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTV Keys
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTVC Phim
+https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Du Lịch và Cuộc Sống
+https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Gia Đình
+https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Phụ Nữ
+https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thuần Việt HD
+https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thuần Việt
+https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTV coop
+https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="1862", Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", KIX_HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="178", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="208", Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", [V] HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="171", Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="3249", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NHK World Japan
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="352", DW
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="529", Arirang
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNA
+https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="139", France 24 (English)
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV5 Monde Asie
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="207", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="353", Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="1328", Fox Sports
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="170", Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="180", Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="321", Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="322", Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2410", Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="3192", BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="118", BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1145", BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="57", Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="67", TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 1
+https://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 2
+https://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 3
+https://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 4
+https://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 5
+https://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 6
+https://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 7
+https://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 8
+https://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 9
+https://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 10
+https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự Kiện", Sự Kiện 2
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", THVL1 HD
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", THVL2 HD
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", THVL3 HD
+https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", THVL4 HD
+https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC1
+https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC2
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC4
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC5
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC6
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC7
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC10
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC13
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC14
+https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTC16
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV4 iMOVIE TV
+https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV6
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV9 - An Viên TV HD
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV11
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV10 NCM
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", FBNC
+https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VOV Vietnam Journey
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTVcab13 VTV Hyundai Homeshopping
+https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Quốc Hội
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", QPVN
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", ANTV
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", VNEWS
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nhân Dân TV
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", An Giang
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vũng Tàu
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bắc Giang
+https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bạc Liêu
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bắc Ninh
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bến Tre
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV1 _ TH Bình Dương
+https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV2 _ TH Bình Dương
+https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BPTV1 _ TH Bình Phước
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BPTV2 Home TV
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bình Thuận
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cà Mau
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cần Thơ
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cao Bằng
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", DaNangTV1 _ TH TP. Đà Nẵng
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", DaNangTV2 _ TH TP. Đà Nẵng
+https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Đắk Lắk
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Điện Biên
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", ĐNRTV1 _ TH Đồng Nai
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", ĐNRTV2 _ TH Đồng Nai
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", THĐT1 _ TH Đồng Tháp
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Gia Lai
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hà Giang
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hà Nam
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", H1 _ TH Hà Nội
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", H2 _ TH Hà Nội
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hà Tĩnh
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kiên Giang 1
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kon Tum
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lâm Đồng
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lạng Sơn
+https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lào Cai
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Long An
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nam Định
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nghệ An
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ninh Bình
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ninh Thuận
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Phú Thọ
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Phú Yên
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Quảng Bình
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Quảng Ngãi
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", QTV1 _ TH Quảng Ninh
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", QTV3 _ TH Quảng Ninh
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Quảng Trị
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sóc Trăng
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sơn La
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tây Ninh
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thái Bình
+https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thái Nguyên
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thanh Hóa
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thừa Thiên Huế
+https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tiền Giang
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Trà Vinh
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tuyên Quang
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vĩnh Phúc
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Yên Bái
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
