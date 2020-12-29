@@ -1400,6 +1400,52 @@ http://185.238.0.145:1313/c/dolive/g/btsport3.m3u8
 http://185.238.0.145:1313/c/dolive/g/btsport3-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bt-sport-3.png" group-title="Sports",BT Sport 3
 http://185.238.0.145:1313/c/dolive/g/btsport3-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-3.png" group-title="Sports",Sony TEN 3
+http://185.238.0.145:1313/c/dolive/g/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-3.png" group-title="Sports",Sony TEN 3
+http://185.238.0.145:1313/c/dolive/g/sonyten3-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-3.png" group-title="Sports",Sony TEN 3
+http://185.238.0.145:1313/c/dolive/g/sonyten3-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-2.png" group-title="Sports",Sony TEN 2
+http://185.238.0.145:1313/c/dolive/g/sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-2.png" group-title="Sports",Sony TEN 2
+http://185.238.0.145:1313/c/dolive/g/sonyten2-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-2.png" group-title="Sports",Sony TEN 2
+http://185.238.0.145:1313/c/dolive/g/sonyten2-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-1.png" group-title="Sports",Sony TEN 1
+http://185.238.0.145:1313/c/dolive/g/sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-1.png" group-title="Sports",Sony TEN 1
+http://185.238.0.145:1313/c/dolive/g/sonyten1-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sony-ten-1.png" group-title="Sports",Sony TEN 1
+http://185.238.0.145:1313/c/dolive/g/sonyten1-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-supersport-3.png" group-title="Sports",Astro Supersport 3
+http://185.238.0.145:1313/c/ku/see/g.MiBiFUN?a=044
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-supersport.png" group-title="Sports",Astro Supersport
+http://185.238.0.145:1313/c/ku/see/g.MiBiFUN?a=043
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/onetv-sports-9.png" group-title="Sports",OneTV Sports 9
+http://185.238.0.145:1313/c/ku/see/g.MiBiFUN?a=058
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/onetv-sports-11.png" group-title="Sports",OneTV Sports 11
+http://185.238.0.145:1313/c/ku/see/g.MiBiFUN?a=055
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sportstv.png" group-title="Sports",SportsTV
+http://185.238.0.145:1313/c/dolive/g/sportstv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sportstv.png" group-title="Sports",SportsTV
+http://185.238.0.145:1313/c/dolive/g/sportstv-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/sport-one.png" group-title="Sports",Sport One
+http://185.238.0.145:1313/c/ku/see/a.MiBiFUN?a=MzAvMJqvLKV=
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/champions-tv-3.png" group-title="Sports",Champions TV 3
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=720p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/champions-tv-3.png" group-title="Sports",Champions TV 3
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/champions-tv-3.png" group-title="Sports",Champions TV 3
+http://185.238.0.145:1313/c/ku/see/f.MiBiFUN?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=360p
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fighting-spirit.png" group-title="Sports",Fighting Spirit
+http://185.238.0.145:1313/c/a/fightingspirit-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fighting-spirit.png" group-title="Sports",Fighting Spirit
+http://185.238.0.145:1313/c/a/fightingspirit-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fighting-spirit.png" group-title="Sports",Fighting Spirit
+http://185.238.0.145:1313/c/a/fightingspirit-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/channel-fight.png" group-title="Sports",Channel Fight***
+http://185.238.0.145:1313/c/a/fightingspirit-lq.m3u8
 
 
 
