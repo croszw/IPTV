@@ -14,8 +14,6 @@ http://136.243.177.164/NOVATV/playlist.m3u8
 http://136.243.177.164/NOVASPORT/playlist.m3u8
 #EXTINF:0,KINO NOVA
 http://136.243.177.164/KINONOVA/playlist.m3u8
-#EXTINF:0,BTV HD
-http://136.243.177.164/BTV/playlist.m3u8
 #EXTINF:0,BTV ACTION
 http://136.243.177.164/BTVACTION/playlist.m3u8
 #EXTINF:0,BTV CINEMA
@@ -66,8 +64,6 @@ http://136.243.177.164/FOXCRIME/playlist.m3u8
 http://136.243.177.164/FOXLIFE/playlist.m3u8
 #EXTINF:0,TLC
 http://136.243.177.164/TLC/playlist.m3u8
-#EXTINF:0,78 TV HD
-http://136.243.177.164/78TV/playlist.m3u8
 #EXTINF:0,ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC
@@ -88,56 +84,7 @@ http://136.243.177.164/THEVOICE/playlist.m3u8
 http://136.243.177.164/CITYTV/playlist.m3u8
 #EXTINF:0,FEN TV
 http://136.243.177.164/FENTV/playlist.m3u8
-#EXTINF:-1,XX | PLAY EUROPE
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10132
-#EXTINF:-1,XX | ERO X
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10133
-#EXTINF:-1,XX | PENTHOUSE BLACK
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10134
-#EXTINF:-1,XX | FAP TV T
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10135
-#EXTINF:-1,XX | CANDY TV
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10136
-#EXTINF:-1,XX | FAP TV 2
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10137
-#EXTINF:-1,XX | PARODY TO
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10138
-#EXTINF:-1,XX | BEST ANA
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10139
-#EXTINF:-1,XX | BRAZZERS
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10140
-#EXTINF:-1,XX | FAP TV LES
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10141
-#EXTINF:-1,XX | FAP TV
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10142
-#EXTINF:-1,XX | PREMIUM
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10143
-#EXTINF:-1,XX | BLUE HUSTLER
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10144
-#EXTINF:-1,XX | PASSIE
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10145
-#EXTINF:-1,XX | REALITY KING
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10146
-#EXTINF:-1,XX | HOT HOT
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10147
-#EXTINF:-1,XX | YOUNG ENOUGH
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10148
-#EXTINF:-1,XX | PARTY LIFE
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10150
-#EXTINF:-1,XX | PENTHOUSE QUICKIES
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10151
-#EXTINF:-1,XX | HOT FRENCH S
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10152
-#EXTINF:-1,XX | TABOO SO WRONG
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10153
-#EXTINF:-1,XX | OLD BUT GOOD
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10154
-#EXTINF:-1,XX | MIL LOVE
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10155
-#EXTINF:-1,XX | G
-http://p5.giffy.be:8080/yZUTB9c7i1/8gKsjthhp1/10156
 
-#EXTM3U
 #EXTINF:-1,13 C
 http://200.54.19.131:8500/play/a0g3/index.m3u8
 #EXTINF:-1,24 Horas TVN
@@ -146,8 +93,6 @@ http://200.54.19.131:8500/play/a0db/index.m3u8
 http://200.54.19.131:8500/play/a0kt/index.m3u8
 #EXTINF:-1,ANTV
 http://200.54.19.131:8500/play/a0h1/index.m3u8
-#EXTINF:-1,ATRES SERIES
-http://200.54.19.131:8500/play/a0kx/index.m3u8
 #EXTINF:-1,ATV
 http://200.54.19.131:8500/play/a0du/index.m3u8
 #EXTINF:-1,AXN
@@ -158,8 +103,6 @@ http://200.54.19.131:8500/play/a0dp/index.m3u8
 http://200.54.19.131:8500/play/a0j4/index.m3u8
 #EXTINF:-1,Antena 3
 http://200.54.19.131:8500/play/a0i8/index.m3u8
-#EXTINF:-1,BBC World
-http://200.54.19.131:8500/play/a0kl/index.m3u8
 #EXTINF:-1,Baby TV
 http://200.54.19.131:8500/play/a0kf/index.m3u8
 #EXTINF:-1,Boomerang
@@ -180,36 +123,20 @@ http://200.54.19.131:8500/play/a0ee/index.m3u8
 http://200.54.19.131:8500/play/a0i7/index.m3u8
 #EXTINF:-1,CNN Espaæol
 http://200.54.19.131:8500/play/a0kk/index.m3u8
-#EXTINF:-1,CNN International
-http://200.54.19.131:8500/play/a0km/index.m3u8
-#EXTINF:-1,Canal Capital
-http://200.54.19.131:8500/play/a0j0/index.m3u8
 #EXTINF:-1,Canal 1
 http://200.54.19.131:8500/play/a0g4/index.m3u8
 #EXTINF:-1,Canal 13
 http://200.54.19.131:8500/play/a0d6/index.m3u8
 #EXTINF:-1,Canal Fox
 http://200.54.19.131:8500/play/a0dh/index.m3u8
-#EXTINF:-1,Canal I
-http://200.54.19.131:8500/play/a0hy/index.m3u8
 #EXTINF:-1,Canal N
 http://200.54.19.131:8500/play/a0dt/index.m3u8
-#EXTINF:-1,Canal TRO
-http://200.54.19.131:8500/play/a0iy/index.m3u8
-#EXTINF:-1,Canal del Congreso
-http://200.54.19.131:8500/play/a0hz/index.m3u8
-#EXTINF:-1,Caracol
-http://200.54.19.131:8500/play/a0iw/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://200.54.19.131:8500/play/a0m1/index.m3u8
 #EXTINF:-1,Cinemax
 http://200.54.19.131:8500/play/a0hh/index.m3u8
-#EXTINF:-1,City TV
-http://200.54.19.131:8500/play/a0kd/index.m3u8
 #EXTINF:-1,Conciencia
 http://200.54.19.131:8500/play/a0h5/index.m3u8
-#EXTINF:-1,DW (Deutsch +)
-http://200.54.19.131:8500/play/a0kp/index.m3u8
 #EXTINF:-1,De PelŦcula
 http://200.54.19.131:8500/play/a0k7/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -232,16 +159,12 @@ http://200.54.19.131:8500/play/a0js/index.m3u8
 http://200.54.19.131:8500/play/a0i4/index.m3u8
 #EXTINF:-1,ESPN
 http://200.54.19.131:8500/play/a0m5/index.m3u8
-#EXTINF:-1,ESPN
-http://200.54.19.131:8500/play/a0dg/index.m3u8
 #EXTINF:-1,ESPN 3
 http://200.54.19.131:8500/play/a0gi/index.m3u8
 #EXTINF:-1,ESPN2
 http://200.54.19.131:8500/play/a0m4/index.m3u8
 #EXTINF:-1,ESPN2
 http://200.54.19.131:8500/play/a0m6/index.m3u8
-#EXTINF:-1,ESPN2
-http://200.54.19.131:8500/play/a0hb/index.m3u8
 #EXTINF:-1,ETC TV
 http://200.54.19.131:8500/play/a0d9/index.m3u8
 #EXTINF:-1,EWTN
@@ -252,8 +175,6 @@ http://200.54.19.131:8500/play/a0eb/index.m3u8
 http://200.54.19.131:8500/play/a0dm/index.m3u8
 #EXTINF:-1,Enlace
 http://200.54.19.131:8500/play/a0ji/index.m3u8
-#EXTINF:-1,Epoca
-http://200.54.19.131:8500/play/a0ke/index.m3u8
 #EXTINF:-1,Eurochannel
 http://200.54.19.131:8500/play/a0kn/index.m3u8
 #EXTINF:-1,FANB
@@ -298,12 +219,6 @@ http://200.54.19.131:8500/play/a0ks/index.m3u8
 http://200.54.19.131:8500/play/a0dv/index.m3u8
 #EXTINF:-1,GOLPERU
 http://200.54.19.131:8500/play/a0k9/index.m3u8
-#EXTINF:-1,Gamavisiðn
-http://200.54.19.131:8500/play/a0eg/index.m3u8
-#EXTINF:-1,Globovision
-http://200.54.19.131:8500/play/a0jl/index.m3u8
-#EXTINF:-1,Gol TV
-http://200.54.19.131:8500/play/a0kr/index.m3u8
 #EXTINF:-1,Golden
 http://200.54.19.131:8500/play/a0hd/index.m3u8
 #EXTINF:-1,Golden Edge
@@ -354,8 +269,6 @@ http://200.54.19.131:8500/play/a0do/index.m3u8
 http://200.54.19.131:8500/play/a0dr/index.m3u8
 #EXTINF:-1,Movistar Series
 http://200.54.19.131:8500/play/a0iu/index.m3u8
-#EXTINF:-1,Movistar TV
-http://200.54.19.131:8500/play/a0it/index.m3u8
 #EXTINF:-1,Nat Geo Kids
 http://200.54.19.131:8500/play/a0j3/index.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -366,10 +279,6 @@ http://200.54.19.131:8500/play/a0i1/index.m3u8
 http://200.54.19.131:8500/play/a0ea/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://200.54.19.131:8500/play/a0h8/index.m3u8
-#EXTINF:-1,Nuestra Tele
-http://200.54.19.131:8500/play/a0k6/index.m3u8
-#EXTINF:-1,Nuestra Tele
-http://200.54.19.131:8500/play/a0jp/index.m3u8
 #EXTINF:-1,Orbe 21
 http://200.54.19.131:8500/play/a0ge/index.m3u8
 #EXTINF:-1,PLUSTV
@@ -382,10 +291,6 @@ http://200.54.19.131:8500/play/a0hg/index.m3u8
 http://200.54.19.131:8500/play/a0e1/index.m3u8
 #EXTINF:-1,Playboy
 http://200.54.19.131:8500/play/a0in/index.m3u8
-#EXTINF:-1,RAI
-http://200.54.19.131:8500/play/a0ko/index.m3u8
-#EXTINF:-1,RCN
-http://200.54.19.131:8500/play/a0jo/index.m3u8
 #EXTINF:-1,REC TV
 http://200.54.19.131:8500/play/a0gv/index.m3u8
 #EXTINF:-1,RED Televisiðn
@@ -394,8 +299,6 @@ http://200.54.19.131:8500/play/a0g2/index.m3u8
 http://200.54.19.131:8500/play/a0g0/index.m3u8
 #EXTINF:-1,Sextreme
 http://200.54.19.131:8500/play/a0gq/index.m3u8
-#EXTINF:-1,Seæal Colombia
-http://200.54.19.131:8500/play/a0jn/index.m3u8
 #EXTINF:-1,Sony
 http://200.54.19.131:8500/play/a0ic/index.m3u8
 #EXTINF:-1,Space
@@ -416,8 +319,6 @@ http://200.54.19.131:8500/play/a0jm/index.m3u8
 http://200.54.19.131:8500/play/a0kv/index.m3u8
 #EXTINF:-1,TNT Series
 http://200.54.19.131:8500/play/a0kw/index.m3u8
-#EXTINF:-1,TV Diputados
-http://200.54.19.131:8500/play/a0gb/index.m3u8
 #EXTINF:-1,TV EPACO
 http://200.54.19.131:8500/play/a0h4/index.m3u8
 #EXTINF:-1,TV FAMILIA
@@ -432,30 +333,14 @@ http://200.54.19.131:8500/play/a0gc/index.m3u8
 http://200.54.19.131:8500/play/a0gz/index.m3u8
 #EXTINF:-1,TVN
 http://200.54.19.131:8500/play/a0d3/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://200.54.19.131:8500/play/a0kc/index.m3u8
-#EXTINF:-1,Telecafe
-http://200.54.19.131:8500/play/a0iz/index.m3u8
-#EXTINF:-1,Telecanal
-http://200.54.19.131:8500/play/a0hx/index.m3u8
-#EXTINF:-1,Telecaribe
-http://200.54.19.131:8500/play/a0ix/index.m3u8
 #EXTINF:-1,Teleislas
 http://200.54.19.131:8500/play/a0h7/index.m3u8
 #EXTINF:-1,Telemundo
 http://200.54.19.131:8500/play/a0dx/index.m3u8
 #EXTINF:-1,Telenovelas
 http://200.54.19.131:8500/play/a0g9/index.m3u8
-#EXTINF:-1,Telepacifico
-http://200.54.19.131:8500/play/a0kb/index.m3u8
-#EXTINF:-1,Telesur
-http://200.54.19.131:8500/play/a0kq/index.m3u8
-#EXTINF:-1,Telesur
-http://200.54.19.131:8500/play/a0ka/index.m3u8
 #EXTINF:-1,Teletrak
 http://200.54.19.131:8500/play/a0dd/index.m3u8
-#EXTINF:-1,Televen
-http://200.54.19.131:8500/play/a0iv/index.m3u8
 #EXTINF:-1,Tooncast
 http://200.54.19.131:8500/play/a0l2/index.m3u8
 #EXTINF:-1,Travel and Living Channel
@@ -470,8 +355,6 @@ http://200.54.19.131:8500/play/a0gk/index.m3u8
 http://200.54.19.131:8500/play/a0gy/index.m3u8
 #EXTINF:-1,Venevision Plus
 http://200.54.19.131:8500/play/a0dw/index.m3u8
-#EXTINF:-1,Venevisiðn
-http://200.54.19.131:8500/play/a0gw/index.m3u8
 #EXTINF:-1,Venezolana de Televisiðn
 http://200.54.19.131:8500/play/a0h2/index.m3u8
 #EXTINF:-1,Venus
@@ -484,7 +367,5 @@ http://200.54.19.131:8500/play/a0h0/index.m3u8
 http://200.54.19.131:8500/play/a0ec/index.m3u8
 #EXTINF:-1,Warner Channel
 http://200.54.19.131:8500/play/a0e3/index.m3u8
-#EXTINF:-1,Win Sports
-http://200.54.19.131:8500/play/a0jc/index.m3u8
 #EXTINF:-1,Zona Latina
 http://200.54.19.131:8500/play/a0d7/index.m3u8
