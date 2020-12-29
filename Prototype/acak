@@ -658,3 +658,78 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", zzestsd 
+http://z5amshls.akamaized.net/zzestsd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", andpicssd 
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zanmolcnm 
+http://z5amshls.akamaized.net/zanmolcnm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zcinemalusd 
+http://z5amshls.akamaized.net/zcinemalusd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zeetalkies 
+http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ztalkieshd 
+http://z5amshls.akamaized.net/ztalkieshd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", andflix 
+http://z5amshls.akamaized.net/andflix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", andflixhd 
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zeecafesd 
+http://z5amshls.akamaized.net/zeecafesd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zeecafehd 
+http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tuyên 
+http://z5amshls.akamaized.net/smileusa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ztvme 
+http://z5amshls.akamaized.net/ztvme/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ztvsdusa 
+http://z5amshls.akamaized.net/ztvsdusa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", apacsea 
+http://z5amshls.akamaized.net/apacsea/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", canadahd 
+http://z5amshls.akamaized.net/canadahd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", bigmagic 
+http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", etcpnjbiusa 
+http://z5amshls.akamaized.net/etcpnjbiusa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", marathiusa 
+http://z5amshls.akamaized.net/marathiusa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", livingfoodzhd 
+http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", mundohd 
+http://z5amshls.akamaized.net/mundohd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", russia 
+http://z5amshls.akamaized.net/russia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", world 
+http://z5amshls.akamaized.net/world/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zing 
+http://z5amshls.akamaized.net/zing/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zinguk 
+http://z5amshls.akamaized.net/zinguk/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", punjabi 
+http://z5amshls.akamaized.net/punjabi/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zzesthd 
+http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zeecinemame 
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", andpicshd 
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zcinemahd 
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", cinemausa 
+http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", cinemauk 
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", classic 
+http://z5amshls.akamaized.net/classic/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", action 
+http://z5amshls.akamaized.net/action/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zbanglacnm 
+http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", andprivehd 
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", bigganga 
+http://z5amshls.akamaized.net/bigganga/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", magic 
+http://z5amshls.akamaized.net/magic/playlist.m3u8
