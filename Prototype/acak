@@ -733,3 +733,191 @@ http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 http://z5amshls.akamaized.net/bigganga/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", magic 
 http://z5amshls.akamaized.net/magic/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1,One News
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+#EXTINF:-1,OneTV Kids
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
+#EXTINF:-1,OneTV Drama
+http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+#EXTINF:-1,OneTV Cinema
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+#EXTINF:-1,OneTV HD
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+#EXTINF:-1,OneTV Sabay
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+#EXTINF:-1,OneTV Discovery
+http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
+#EXTINF:-1,CTN HD
+http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
+#EXTINF:-1,MyTV HD
+http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
+#EXTINF:-1,CNC
+http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
+#EXTINF:-1,Bayon TV
+http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
+#EXTINF:-1,BTV News
+http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
+#EXTINF:-1,OneTV E-School
+http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
+#EXTINF:-1,Hang Meas HDTV
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
+#EXTINF:-1,RHM HDTV
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
+#EXTINF:-1,SEATV HD
+http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
+#EXTINF:-1,TVK AMBODJA
+http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
+#EXTINF:-1,Apsara
+http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
+#EXTINF:-1,PNN HD
+http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
+#EXTINF:-1,TV3 CAM
+http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
+#EXTINF:-1,TV5 HD
+http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
+#EXTINF:-1,NTV
+http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
+#EXTINF:-1,Town TV HD
+http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
+#EXTINF:-1,Baby First
+http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
+#EXTINF:-1,Thai PBS
+http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
+#EXTINF:-1,RTR
+http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
+#EXTINF:-1,SET Taiwan
+http://36.37.252.114:888/Apple/OneTV-028/playlist.m3u8
+#EXTINF:-1,Channel 06 Cinemax
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1,Channel 18 HBO Asia
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1,Channel 44 HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1,Channel 45 HBO Signature
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1,Channel 22 HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1,TV3 Thai HD
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
+#EXTINF:-1,TV7 Thai
+http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+#EXTINF:-1,Channel 16 FAN TV
+http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+#EXTINF:-1,Arrirang
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:-1,KBS World
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1,1TVRUS ASIA
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
+#EXTINF:-1,Astro Supersport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1,Astro Supersport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1,VINH LONG 1 HD
+http://36.37.252.114:888/Apple/OneTV-046/playlist.m3u8
+#EXTINF:-1,France 24 HD (in English)
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
+#EXTINF:-1,Euronews English HD
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1,Aljazeera
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
+#EXTINF:-1,France 24
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+#EXTINF:-1,Channel 46 TV5 Monde
+http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
+#EXTINF:-1,DW Dutch
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+#EXTINF:-1,Hunan TV
+http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
+#EXTINF:-1,OneTV Sports 11
+http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild (Red Bull)
+http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
+#EXTINF:-1,RT English
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+#EXTINF:-1,OneTV Sports 9
+http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
+#EXTINF:-1,FashionTV
+http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
+#EXTINF:-1,MTV
+http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
+#EXTINF:-1,CCTV 4A
+http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
+#EXTINF:-1,CGTN
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
+#EXTINF:-1,CGTN Documentar
+http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
+#EXTINF:-1,CCTV 11
+http://36.37.252.114:888/Apple/OneTV-064/playlist.m3u8
+#EXTINF:-1,CCTV 10
+http://36.37.252.114:888/Apple/OneTV-065/playlist.m3u8
+#EXTINF:-1,CCTV 12
+http://36.37.252.114:888/Apple/OneTV-066/playlist.m3u8
+#EXTINF:-1,CCTV 15
+http://36.37.252.114:888/Apple/OneTV-067/playlist.m3u8
+#EXTINF:-1,Jiangsu TV
+http://36.37.252.114:888/Apple/OneTV-068/playlist.m3u8
+#EXTINF:-1,BTV_KAKU
+http://36.37.252.114:888/Apple/OneTV-069/playlist.m3u8
+#EXTINF:-1,Zhejiang TV
+http://36.37.252.114:888/Apple/OneTV-070/playlist.m3u8
+#EXTINF:-1,CCTV2
+http://36.37.252.114:888/Apple/OneTV-071/playlist.m3u8
+#EXTINF:-1,Fujian TV
+http://36.37.252.114:888/Apple/OneTV-072/playlist.m3u8
+#EXTINF:-1,Chongquing TV
+http://36.37.252.114:888/Apple/OneTV-073/playlist.m3u8
+#EXTINF:-1,Tianjin TV
+http://36.37.252.114:888/Apple/OneTV-074/playlist.m3u8
+#EXTINF:-1,LotusTV
+http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
+#EXTINF:-1,sichuan
+http://36.37.252.114:888/Apple/OneTV-076/playlist.m3u8
+#EXTINF:-1,BTV_1
+http://36.37.252.114:888/Apple/OneTV-077/playlist.m3u8
+#EXTINF:-1,Anhui
+http://36.37.252.114:888/Apple/OneTV-078/playlist.m3u8
+#EXTINF:-1,CCTV17
+http://36.37.252.114:888/Apple/OneTV-079/playlist.m3u8
+#EXTINF:-1,GXTV
+http://36.37.252.114:888/Apple/OneTV-080/playlist.m3u8
+#EXTINF:-1,SZTV
+http://36.37.252.114:888/Apple/OneTV-081/playlist.m3u8
+#EXTINF:-1,Jianxi TV (Taishan)
+http://36.37.252.114:888/Apple/OneTV-082/playlist.m3u8
+#EXTINF:-1,Guangdong1
+http://36.37.252.114:888/Apple/OneTV-083/playlist.m3u8
+#EXTINF:-1,Henan TV
+http://36.37.252.114:888/Apple/OneTV-084/playlist.m3u8
+#EXTINF:-1,Yunan TV
+http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
+#EXTINF:-1,Fresh News
+http://36.37.252.114:888/Apple/OneTV-086/playlist.m3u8
+#EXTINF:-1,Channel 11 Warner TV
+http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
+#EXTINF:-1,Channel 17 Cartoon Network
+http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
+#EXTINF:-1,QUOC HOI HD
+http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
+#EXTINF:-1,QTV1 HD
+http://36.37.252.114:888/Apple/OneTV-107/playlist.m3u8
+#EXTINF:-1,QTV3 HD
+http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
+#EXTINF:-1,NHAN DAN HD
+http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
+#EXTINF:-1,VNEWS HD
+http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+#EXTINF:-1,VINH LONG 1 HD
+http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
+#EXTINF:-1,VINH LONG 2 HD
+http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
+#EXTINF:-1,VOVTV-VIETNAMJOURNEY HD
+http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
+#EXTINF:-1,K+1
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+#EXTINF:-1,THONG TIN DICH VU HD
+http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
