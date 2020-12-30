@@ -259,7 +259,7 @@ https://i.mjh.nz/au/Adelaide/tv.c44.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Adelaide/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
+https://i.mjh.nz/au/Adelaide/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
@@ -585,7 +585,7 @@ https://i.mjh.nz/au/Brisbane/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Brisbane/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Brisbane/tv.acctv.m3u8
+https://i.mjh.nz/au/Brisbane/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Canberra/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
@@ -815,7 +815,7 @@ https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Canberra/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Canberra/tv.acctv.m3u8
+https://i.mjh.nz/au/Canberra/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Darwin/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
@@ -1066,7 +1066,7 @@ https://i.mjh.nz/au/Darwin/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Darwin/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Darwin/tv.acctv.m3u8
+https://i.mjh.nz/au/Darwin/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Hobart/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
@@ -1296,7 +1296,7 @@ https://i.mjh.nz/au/Hobart/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Hobart/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Hobart/tv.acctv.m3u8
+https://i.mjh.nz/au/Hobart/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
@@ -1562,7 +1562,7 @@ https://i.mjh.nz/au/Melbourne/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.3aw.melbourne" tvg-logo="https://i.mjh.nz/.images/tv.3aw.melbourne.png",3AW Melbourne
-https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8
+https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Perth/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
@@ -1843,7 +1843,7 @@ https://i.mjh.nz/au/Perth/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222
 https://i.mjh.nz/au/Perth/tv.46.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Perth/tv.acctv.m3u8
+https://i.mjh.nz/au/Perth/tv.acctv.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Sydney/epg.xml.gz"|X-Forwarded-For=202.89.4.222
 
