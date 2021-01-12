@@ -1,123 +1,123 @@
 #EXTM3U
-#EXTINF:-1,insan_1
+#EXTINF:-1,Ashiil tv
 http://wz.insantv.net/monitor/ch4.m3u8
-#EXTINF:-1,insan_2
+#EXTINF:-1,AHSAN TV
 http://wz.insantv.net/monitor/ch8.m3u8
-#EXTINF:-1,insan_3
+#EXTINF:-1,Hijrah tv
 http://wz.insantv.net/monitor/ch9.m3u8
-#EXTINF:-1,insan_4
+#EXTINF:-1,rasyaad.tv
 http://wz.insantv.net/monitor/ch12.m3u8
-#EXTINF:-1,insan_5
+#EXTINF:-1,albinaa tv
 http://wz.insantv.net/monitor/ch16.m3u8
-#EXTINF:-1,insan_6
+#EXTINF:-1,insan TV
 http://wz.insantv.net/monitor/ch1.m3u8
-#EXTINF:-1,insan_7
+#EXTINF:-1,muadz TV
 http://wz.insantv.net/monitor/ch5.m3u8
-#EXTINF:-1,insan_8
+#EXTINF:-1,Izzah TV
 http://wz.insantv.net/monitor/ch6.m3u8
-#EXTINF:-1,insan_9
+#EXTINF:-1,Surau TV
 http://wz.insantv.net/monitor/ch7.m3u8
-#EXTINF:-1,insan_10
+#EXTINF:-1,As Sunnah TV
 http://wz.insantv.net/monitor/ch10.m3u8
-#EXTINF:-1,insan_11
+#EXTINF:-1,Al Quran TV
 http://wz.insantv.net/monitor/ch11.m3u8
-#EXTINF:-1,insan_12
+#EXTINF:-1,Niaga TV
 http://wz.insantv.net/monitor/ch13.m3u8
-#EXTINF:-1,insan_13
+#EXTINF:-1,AL IMAN TV
 http://wz.insantv.net/monitor/ch14.m3u8
-#EXTINF:-1,insan_14
+#EXTINF:-1,salam tv
 http://wz.insantv.net/monitor/ch15.m3u8
-#EXTINF:-1,insan_15
+#EXTINF:-1,TVRI
 http://wz.insantv.net/monitor/ch101.m3u8
 #EXTINF:-1,insan_16
 http://wz.insantv.net/monitor/ch102.m3u8
 #EXTINF:-1,insan_17
 http://wz.insantv.net/monitor/ch105.m3u8
-#EXTINF:-1,insan_18
+#EXTINF:-1,SINEMA INDONESIA X
 http://wz.insantv.net/monitor/ch106.m3u8
-#EXTINF:-1,insan_19
+#EXTINF:-1,Drakor Plus
 http://wz.insantv.net/monitor/ch107.m3u8
-#EXTINF:-1,insan_20
+#EXTINF:-1,RRI NET
 http://wz.insantv.net/monitor/ch110.m3u8
-#EXTINF:-1,insan_21
+#EXTINF:-1,TV P
 http://wz.insantv.net/monitor/ch111.m3u8
-#EXTINF:-1,insan_22
+#EXTINF:-1,KTV
 http://wz.insantv.net/monitor/ch112.m3u8
-#EXTINF:-1,insan_23
+#EXTINF:-1,KOMPAS TV
 http://wz.insantv.net/monitor/ch113.m3u8
-#EXTINF:-1,insan_24
+#EXTINF:-1,CINTA BOLLY
 http://wz.insantv.net/monitor/ch114.m3u8
-#EXTINF:-1,insan_25
+#EXTINF:-1,TV In
 http://wz.insantv.net/monitor/ch115.m3u8
-#EXTINF:-1,insan_26
+#EXTINF:-1,ntv
 http://wz.insantv.net/monitor/ch116.m3u8
-#EXTINF:-1,insan_27
+#EXTINF:-1,JAKTV
 http://wz.insantv.net/monitor/ch117.m3u8
-#EXTINF:-1,insan_28
+#EXTINF:-1,lejel
 http://wz.insantv.net/monitor/ch118.m3u8
-#EXTINF:-1,insan_29
+#EXTINF:-1,DAAI TV
 http://wz.insantv.net/monitor/ch119.m3u8
-#EXTINF:-1,insan_30
+#EXTINF:-1,FTV
 http://wz.insantv.net/monitor/ch120.m3u8
 #EXTINF:-1,insan_31
 http://wz.insantv.net/monitor/ch122.m3u8
-#EXTINF:-1,insan_32
+#EXTINF:-1,myTV
 http://wz.insantv.net/monitor/ch123.m3u8
-#EXTINF:-1,insan_33
+#EXTINF:-1,FATWA TV
 http://wz.insantv.net/monitor/ch124.m3u8
-#EXTINF:-1,insan_34
+#EXTINF:-1,Elshinta TV
 http://wz.insantv.net/monitor/ch125.m3u8
-#EXTINF:-1,insan_35
+#EXTINF:-1,TOBA TV
 http://wz.insantv.net/monitor/ch126.m3u8
-#EXTINF:-1,insan_36
+#EXTINF:-1,DM TV Malang
 http://wz.insantv.net/monitor/ch128.m3u8
-#EXTINF:-1,insan_37
+#EXTINF:-1,RUAI tv
 http://wz.insantv.net/monitor/ch129.m3u8
-#EXTINF:-1,insan_38
+#EXTINF:-1,M Cine Channel
 http://wz.insantv.net/monitor/ch137.m3u8
-#EXTINF:-1,insan_39
+#EXTINF:-1,dANGDUT TIVI
 http://wz.insantv.net/monitor/ch145.m3u8
-#EXTINF:-1,insan_40
+#EXTINF:-1,SPM TV
 http://wz.insantv.net/monitor/ch147.m3u8
-#EXTINF:-1,insan_41
+#EXTINF:-1,Jaya tv
 http://wz.insantv.net/monitor/ch254.m3u8
-#EXTINF:-1,insan_42
+#EXTINF:-1,jtv
 http://122.248.43.138:1935/ch2/myStream/chunklist.m3u8
 #EXTINF:-1,insan_43
 http://122.248.43.138:1935/ch4/myStream/chunklist.m3u8
 #EXTINF:-1,insan_44
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
-#EXTINF:-1,insan_45
+#EXTINF:-1,PAL TV
 http://122.248.43.138:1935/ch7/myStream/chunklist.m3u8
-#EXTINF:-1,insan_46
+#EXTINF:-1,rctv
 http://122.248.43.138:1935/ch9/myStream/chunklist.m3u8
-#EXTINF:-1,insan_47
+#EXTINF:-1,Rtv
 http://122.248.43.138:1935/ch11/myStream/chunklist.m3u8
-#EXTINF:-1,insan_48
+#EXTINF:-1,JAMBI
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
 #EXTINF:-1,insan_49
 http://122.248.43.138:1935/ch16/myStream/chunklist.m3u8
 #EXTINF:-1,insan_50
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
-#EXTINF:-1,insan_51
+#EXTINF:-1,kawanua TV
 http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
 #EXTINF:-1,insan_52
 http://122.248.43.138:1935/ch20/myStream/chunklist.m3u8
-#EXTINF:-1,insan_53
+#EXTINF:-1,jtv pacitan
 http://122.248.43.138:1935/ch21/myStream/chunklist.m3u8
 #EXTINF:-1,insan_54
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
-#EXTINF:-1,insan_55
+#EXTINF:-1,BE TV
 http://122.248.43.138:1935/ch3/myStream/chunklist.m3u8
-#EXTINF:-1,insan_56
+#EXTINF:-1,jawapos TV
 http://122.248.43.138:1935/ch6/myStream/chunklist.m3u8
-#EXTINF:-1,insan_57
+#EXTINF:-1,btv balikpapan
 http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
-#EXTINF:-1,insan_58
+#EXTINF:-1,RB TV
 http://122.248.43.138:1935/ch12/myStream/chunklist.m3u8
 #EXTINF:-1,insan_59
 http://122.248.43.138:1935/ch15/myStream/chunklist.m3u8
-#EXTINF:-1,insan_60
+#EXTINF:-1,Jambi TV
 http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
 #EXTINF:-1,insan_61
 http://122.248.43.138:1935/ch26/myStream/chunklist.m3u8
