@@ -1,128 +1,127 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_1
 http://wz.insantv.net/monitor/ch4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_2
 http://wz.insantv.net/monitor/ch8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_3
 http://wz.insantv.net/monitor/ch9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_4
 http://wz.insantv.net/monitor/ch12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_5
 http://wz.insantv.net/monitor/ch16.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_6
 http://wz.insantv.net/monitor/ch1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_7
 http://wz.insantv.net/monitor/ch5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_8
 http://wz.insantv.net/monitor/ch6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_9
 http://wz.insantv.net/monitor/ch7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_10
 http://wz.insantv.net/monitor/ch10.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_11
 http://wz.insantv.net/monitor/ch11.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_12
 http://wz.insantv.net/monitor/ch13.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_13
 http://wz.insantv.net/monitor/ch14.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_14
 http://wz.insantv.net/monitor/ch15.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_15
 http://wz.insantv.net/monitor/ch101.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_16
 http://wz.insantv.net/monitor/ch102.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_17
 http://wz.insantv.net/monitor/ch105.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_18
 http://wz.insantv.net/monitor/ch106.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_19
 http://wz.insantv.net/monitor/ch107.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_20
 http://wz.insantv.net/monitor/ch110.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_21
 http://wz.insantv.net/monitor/ch111.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_22
 http://wz.insantv.net/monitor/ch112.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_23
 http://wz.insantv.net/monitor/ch113.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_24
 http://wz.insantv.net/monitor/ch114.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_25
 http://wz.insantv.net/monitor/ch115.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_26
 http://wz.insantv.net/monitor/ch116.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_27
 http://wz.insantv.net/monitor/ch117.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_28
 http://wz.insantv.net/monitor/ch118.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_29
 http://wz.insantv.net/monitor/ch119.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_30
 http://wz.insantv.net/monitor/ch120.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_31
 http://wz.insantv.net/monitor/ch122.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_32
 http://wz.insantv.net/monitor/ch123.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_33
 http://wz.insantv.net/monitor/ch124.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_34
 http://wz.insantv.net/monitor/ch125.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_35
 http://wz.insantv.net/monitor/ch126.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_36
 http://wz.insantv.net/monitor/ch128.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_37
 http://wz.insantv.net/monitor/ch129.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_38
 http://wz.insantv.net/monitor/ch137.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_39
 http://wz.insantv.net/monitor/ch145.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_40
 http://wz.insantv.net/monitor/ch147.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",test???
+#EXTINF:-1,insan_41
 http://wz.insantv.net/monitor/ch254.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_42
 http://122.248.43.138:1935/ch2/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_43
 http://122.248.43.138:1935/ch4/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_44
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_45
 http://122.248.43.138:1935/ch7/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_46
 http://122.248.43.138:1935/ch9/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_47
 http://122.248.43.138:1935/ch11/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_48
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_49
 http://122.248.43.138:1935/ch16/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_50
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_51
 http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_52
 http://122.248.43.138:1935/ch20/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_53
 http://122.248.43.138:1935/ch21/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_54
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_55
 http://122.248.43.138:1935/ch3/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_56
 http://122.248.43.138:1935/ch6/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_57
 http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_58
 http://122.248.43.138:1935/ch12/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_59
 http://122.248.43.138:1935/ch15/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_60
 http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_61
 http://122.248.43.138:1935/ch26/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_62
 http://122.248.43.138:1935/ch27/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",myStream
+#EXTINF:-1,insan_63
 http://122.248.43.138:1935/ch28/myStream/chunklist.m3u8
