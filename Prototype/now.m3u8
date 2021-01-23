@@ -443,6 +443,11 @@ https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC",MNCShopSmart
+https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC",MNCSports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
