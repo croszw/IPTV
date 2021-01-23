@@ -114,6 +114,8 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium HD", My_Cinema_HD
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium HD", Motorvision_TV_Trial
+http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="Premium HD", TV5MONDE_Style
 http://210.210.155.35/uq2663/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="Premium HD", Bloomberg_Television_HD
@@ -233,6 +235,8 @@ http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium SD", My_Cinema_HD
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium HD", Motorvision_TV_Trial
+http://210.210.155.35/uq2663/h/h09/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="Premium SD", TV5MONDE_Style
 http://210.210.155.35/uq2663/h/h01/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="Premium SD", Bloomberg_Television_HD
