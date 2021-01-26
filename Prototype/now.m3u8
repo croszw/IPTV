@@ -156,9 +156,6 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC",CGTN_Doc
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC",CGTN_Doc
-https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_hls/CGTN_Doc.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC",ChannelNewsAsia
@@ -714,8 +711,17 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC",Zing
 https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",BandungTV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_hls/BandungTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_hls/CGTN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",CGTN_Doc
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_hls/CGTN_Doc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",Reformed21
+https://liveanevia.mncnow.id/live/eds/Reformed21/sa_hls/Reformed21.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MNC HLS",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
